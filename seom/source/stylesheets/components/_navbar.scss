@@ -1,13 +1,13 @@
 /* Main navbar */
 .navbarseom{
-   height: 100px;
+   height: 80px;
    background: white;
   display: flex;
   align-items: center;
   justify-content: space-between;
    padding: 30px 5%;
-   border-bottom: 1px solid $darkgreen;
-   box-shadow: 0 1px 2px 0 rgba(22,153,152,0.51);
+   border-bottom: 1px solid $green;
+   box-shadow: 1px 1px 2px 0 rgba(22,153,152,0.51);
 }
 
 // .navbar-right{
@@ -19,4 +19,5 @@
 
 .navbar1image{
   margin: 0 15px;
+  height: 40px;
 }

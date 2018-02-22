@@ -1,17 +1,67 @@
 #home {
   background-color: $light-gray;
-  color: white;
-  height: 100vh;
+   text-align: center;
+   margin-top: 4px;
+
+  h1{
+    font-weight: 100;
+    font-size: 28px;
+    color: $green;
+  }
+
+  h2{
+    font-size: 20px;
+    color: black;
+  }
+
+  h4{
+    font-size: 18px;
+    color: $green;
+  }
+  p {
+
+    color: black;
+    font-weight: 100;
+    font-size: 11px;
+  }
+
+  .home-titles{
+  height: 250px;
+  padding: 25px 50px;
+  }
+  .boxes{
   display: flex;
   align-items: center;
   justify-content: space-around;
   text-align: center;
-  p {
-    margin-top: 1.5em;
+  height: 280px;
+
   }
-  a {
-    color: rgba(0,0,0,0.4);
-    font-weight: bold;
-    font-size: 16px;
+}
+
+
+.seom-container{
+  width: 70%;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.index-box{
+  background-color: white;
+  padding: 10px 30px;
+  width: 300px;
+  border-radius: 5px;
+  box-shadow: 1 1 1 1;
+  height: 350px;
+   h2{
+    padding-bottom: 22px;
   }
+  h4{
+    padding-bottom: 15px;
+  }
+  p{
+    padding-bottom: 15px;
+  }
+
+
 }
