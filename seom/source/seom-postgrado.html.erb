@@ -12,37 +12,20 @@
 
 <div class="tabs">
 
-  <%= link_to "Presentación", "#home" , class: "tab active", data: { toggle: 'tab'} %>
-  <%= link_to "Objetivos", "#menu1" , class: "tab ", data: { toggle: 'tab'} %>
-  <%= link_to "Programa", "#menu2" , class: "tab ", data: { toggle: 'tab'} %>
-  <%= link_to "Dirección y Profesores", "#menu3" , class: "tab ", data: { toggle: 'tab'} %>
+  <%= link_to "Presentación", "#presentacion" , class: "tab active", data: { toggle: 'tab'} %>
+  <%= link_to "Objetivos", "#objetivos" , class: "tab ", data: { toggle: 'tab'} %>
+  <%= link_to "Programa", "#programa" , class: "tab ", data: { toggle: 'tab'} %>
+  <%= link_to "Dirección y Profesores", "#profesores" , class: "tab ", data: { toggle: 'tab'} %>
   <%= link_to "Matrícula y Calendario", "#menu3" , class: "tab ", data: { toggle: 'tab'} %>
 </div>
-
-
   <div class="tab-content">
-    <div id="home" class="tab-pane fade in active">
-     <% data.master.first[1].each do | detalle| %>
-       <% detalle[1].each do |titulo, parrafo| %>
-       <h2><%= titulo %> : </h2>
-        <p><%= parrafo %></p>
-       <% end %>
-       <% end %>
-    </div>
-     <div id="menu1" class="tab-pane fade">
-      <h3>Menu 1</h3>
-      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-    </div>
-    <div id="menu2" class="tab-pane fade">
-      <h3>Menu 2</h3>
-      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.</p>
-    </div>
-    <div id="menu3" class="tab-pane fade">
-      <h3>Menu 3</h3>
-      <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-    </div>
+    <div id="presentacion" class="tab-pane faden active"><%= partial "master/presentacion" %></div>
+    <div id="objetivos" class="tab-pane fade"><%= partial "master/objetivos" %></div>
+    <div id="programa" class="tab-pane fade"><%= partial "master/programa" %><</div>
+    <div id="profesores" class="tab-pane fade"><%= partial "master/profesores" %></div>
     <div class="centered">
        <%= link_to "Inscríbete", "form.html" , class: " btn-home centered" %>
+
        </div>
   </div>
 

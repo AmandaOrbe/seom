@@ -26,10 +26,25 @@
   box-shadow: 1px 1px 2px 0 rgba(22,153,152,0.51);
   white-space: pre-line;
   text-align: justify;
-  h2 {
+  h3 {
   color: $green !important;
-  font-family: "Open sans";
-  font-weight: 100;
+  font-family: "Montserrat";
+  font-weight: 300;
+  font-size: 22px;
+  }
+  a{ font-family: "Montserrat";
+      color: $green !important;
+      font-weight: 100;
+      font-size: 16px;
+    }
+  a:hover{
+      text-decoration:none;
+      font-weight: 300;
+    }
+  li{
+    color: black;
+    font-weight: 100;
+    font-size: 11px;
   }
 }
 
@@ -37,4 +52,14 @@
   width:100%;
   text-align: center;
   margin-top: -80px;
+
+}
+
+#programa{
+  margin-top: -50px;
+}
+
+#profesores{
+  margin-top: -50px;
+   white-space: normal;
 }
