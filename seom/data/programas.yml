@@ -1,0 +1,19 @@
+
+
+programa_uno:
+  name: Certificacion SEOM
+  descripcion: hola
+programa_dos:
+  name: Curso
+  descripcion: |
+    Several lines of text,
+    with some quotes of various types,
+    and also a blank line:
+
+    plus another line at the end.
+
+programa_tres:
+  name: Cursillo
+  descripcion: adios
+
+

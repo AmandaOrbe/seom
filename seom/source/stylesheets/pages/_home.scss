@@ -1,4 +1,4 @@
-#home {
+.basic-template {
   background-color: $light-gray;
    text-align: center;
    margin-top: 4px;
@@ -25,7 +25,7 @@
     font-size: 11px;
   }
 
-  .home-titles{
+  .titles{
   height: 250px;
   padding: 25px 50px;
   }
@@ -44,6 +44,7 @@
   width: 70%;
   max-width: 750px;
   margin: 0 auto;
+
 }
 
 .index-box{

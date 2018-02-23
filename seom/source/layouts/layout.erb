@@ -13,7 +13,11 @@
   </head>
   <body>
     <%= partial "navbar" %>
-    <%= yield %>
+    <div class="seom-container">
+      <div class="basic-template">
+        <%= yield %>
+      </div>
+    </div>
     <%= partial "footer" %>
   </body>
 </html>
