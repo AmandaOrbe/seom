@@ -1,5 +1,5 @@
 <h3>25 CURSOS MODULARES Y CASOS PRÁCTICOS</h3>
-<p>El programa consta de 25 cursos modulares que abarcan desde los temas más generales de la oncología hasta una revisión actualizada de cada una de las localizaciones tumorales:
+<div class="tab-text"><p>El programa consta de 25 cursos modulares que abarcan desde los temas más generales de la oncología hasta una revisión actualizada de cada una de las localizaciones tumorales:
 
 Para la obtención del título de Máster es necesario completar el material teórico de los 25 cursos modulares y los casos prácticos, obteniendo una calificación como mínimo de 70 sobre 100 en cada uno de los módulos y además presentar un trabajo final (150 horas – 6 créditos ECTS).
 
@@ -8,11 +8,10 @@ En el supuesto que durante los cursos académicos en los que esté matriculado, 
 En caso de que el alumno realice un presentación oral en cualquiera de estos congresos se añadiría un 75% más de las horas de la duración del congreso. Y en el caso de presentar un póster, se añadiría un 50% más de horas de la duración del congreso. En este supuesto habría que acreditar la asistencia o comunicación presentada a estos congresos y que sean en los años matriculados en el Máster.
 
 </p>
-<h3>PLAN DE ESTUDIOS</h3>
+</div>
 
+<h3>PLAN DE ESTUDIOS</h3><div class="lista-cursos tab-text">
   <% data.modulos.each do |programa, detalle| %>
-  <%= link_to programa.upcase , "#" , class: " lista" %>
+  <%= link_to programa.upcase , "#" , class: " lista " %>
   <% end %>
-
-
-
+  </div>

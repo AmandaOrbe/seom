@@ -32,22 +32,16 @@
   font-weight: 300;
   font-size: 22px;
   }
-  a{ font-family: "Montserrat";
-      color: $green !important;
-      font-weight: 100;
-      font-size: 16px;
-    }
-  a:hover{
-      text-decoration:none;
-      font-weight: 300;
-    }
+
   li{
     color: black;
     font-weight: 100;
     font-size: 11px;
   }
 }
-
+.tab-text{
+  margin-left: 14%;
+}
 .centered{
   width:100%;
   text-align: center;
@@ -55,11 +49,56 @@
 
 }
 
+.lista-cursos{
+  a{ font-family: "Montserrat";
+      color: $green !important;
+      font-weight: 100;
+      font-size: 15px;
+      line-height: 30px;
+      letter-spacing: -1px;
+    }
+  a:hover{
+      text-decoration:none;
+      font-weight: 300;
+      line-height: 30px;
+      letter-spacing: -1px;
+    }
+}
+#presentacion{
+  margin-top: 50px;
+}
 #programa{
-  margin-top: -50px;
+  margin-top: -26px;
 }
 
+#calendario{
+  margin-top: -80px;
+}
 #profesores{
   margin-top: -50px;
    white-space: normal;
+}
+
+.claustro{
+  white-space: normal;
+  display: flex;
+  justify-content: space-between;
+  li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.claustro-column{
+  width:45%;
+}
+
+.list-no-deco{
+    li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    white-space: normal;
+  }
 }

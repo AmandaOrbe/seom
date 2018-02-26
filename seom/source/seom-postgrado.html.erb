@@ -1,4 +1,3 @@
-
 <div class="titles">
   <h1>MÁSTER EN ONCOLOGÍA MÉDICA:
     CERTIFICACIÓN SEOM
@@ -16,30 +15,18 @@
   <%= link_to "Objetivos", "#objetivos" , class: "tab ", data: { toggle: 'tab'} %>
   <%= link_to "Programa", "#programa" , class: "tab ", data: { toggle: 'tab'} %>
   <%= link_to "Dirección y Profesores", "#profesores" , class: "tab ", data: { toggle: 'tab'} %>
-  <%= link_to "Matrícula y Calendario", "#menu3" , class: "tab ", data: { toggle: 'tab'} %>
+  <%= link_to "Matrícula y Calendario", "#calendario" , class: "tab ", data: { toggle: 'tab'} %>
 </div>
   <div class="tab-content">
     <div id="presentacion" class="tab-pane faden active"><%= partial "master/presentacion" %></div>
     <div id="objetivos" class="tab-pane fade"><%= partial "master/objetivos" %></div>
     <div id="programa" class="tab-pane fade"><%= partial "master/programa" %><</div>
     <div id="profesores" class="tab-pane fade"><%= partial "master/profesores" %></div>
+    <div id="calendario" class="tab-pane fade"><%= partial "master/calendario" %></div>
     <div class="centered">
        <%= link_to "Inscríbete", "form.html" , class: " btn-home centered" %>
 
        </div>
   </div>
 
-
-<div class="content">
-  <p><%= data.master.first[1]%></p>
-
-
-</div>
-
-<div class="content">
-  <% data.programas.each do |programa, detalle| %>
-  <p><%= detalle[:name] %> : </p>
-  <p><%= detalle[:descripcion] %></p>
-  <% end %>
-</div>
 
