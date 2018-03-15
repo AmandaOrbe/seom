@@ -5,7 +5,7 @@
 
 .tab{
   width: 140px;
-  padding: 10px;
+  padding: 10px 7px;
   background-color: white;
   color: $green;
   font-size: 11px;
@@ -14,10 +14,15 @@
   box-shadow: 1px 1px 2px 0 rgba(22,153,152,0.51);
 }
 
-.tab.active{
+
+
+
+
+.tabs .active {
   background-color: $darkgreen;
   color: white;
 }
+
 .tab-content{
   margin-top: 25px;
   padding: 0 70px;
@@ -36,9 +41,10 @@
   li{
     color: black;
     font-weight: 100;
-    font-size: 11px;
+    font-size: 12px;
   }
 }
+
 .tab-text{
   margin-left: 14%;
 }
@@ -46,6 +52,7 @@
   width:100%;
   text-align: center;
   margin-top: -80px;
+  vertical-align: middle;
 
 }
 
