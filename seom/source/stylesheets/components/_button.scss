@@ -5,6 +5,7 @@ background-color: $darkgreen;
   color: white;
   font-size: 12px;
   font-weight: 100;
+   border-color: $darkgreen;
 
 }
 
@@ -15,4 +16,32 @@ background-color: $darkgreen;
   color: white !important;
   font-size: 12px;
   font-weight: 100;
+  border-color: $green;
+}
+
+.btn-login{
+  margin-top: 25px;
+  width:100%;
+  border-color: $green;
+}
+
+.btn-login:hover{
+    background-color: $darkgreen;
+  }
+
+
+.btn-cancel{
+  background-color: $light-gray;
+  border-radius: 25px;
+  padding: 7px 25px;
+  color: black;
+  font-size: 12px;
+  font-weight: 100;
+  margin-top: 15px;
+  width:100%;
+  border-color:$light-gray;
+}
+
+.btn-cancel:hover{
+  background-color:$gray;
 }

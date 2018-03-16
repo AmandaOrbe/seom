@@ -15,7 +15,11 @@
 }
 
 
-
+.fade {
+    opacity: 0;
+    -webkit-transition: opacity 800ms linear;
+    transition: opacity 800ms linear;
+}
 
 
 .tabs .active {
