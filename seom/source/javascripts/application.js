@@ -28,7 +28,7 @@ $(function() {
 // especialistas
 
 $('.section-container').on('click', function(){
-      $(this).children().toggle(500);
+      $(this).children().fadeIn(500);
  });
 
 });

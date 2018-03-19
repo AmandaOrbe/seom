@@ -10,21 +10,31 @@
 
 <div class="especialistas">
   <h3>CATÁLOGO DE CURSOS</h3>
-  <div class="lista-cursos ">
-    <% data.cursos.each do |programa, detalle| %>
-    <div class="section-container">
-      <%= link_to programa.upcase , "" , class: " lista ", id: programa %>
-      <div class="descriptivos">
-        <p><%=programa.upcase%></p>
-      </div>
+  <br>
+  <div class="cards">
+    <div class="row">
+      <% data.cursos.each do |programa, detalle| %>
+        <div class="col-xs-12 col-sm-6  col-md-4">
+          <div class="curso-card">
+            <div class="curso-title">
+              <%= link_to programa.upcase , "" , class: " lista titulos-lista", id: programa %>
+            </div>
+            <div class="curso-text">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium vero illum fugit enim, voluptate doloremque amet deserunt pariatur sint commodi ad.</p>
+            </div>
+            <div class="curso-cta">
+              <%= link_to "Inscríbete", "form.html" , class: " btn-home centered" %>
+            </div>
+          </div>
+        </div>
+      <% end %>
     </div>
-
-    <% end %>
   </div>
+</div>
 
-</div>
+
 <br>
-</div>
+
 <br>
 <br>
 <br>
