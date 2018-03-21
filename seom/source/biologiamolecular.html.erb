@@ -5,13 +5,15 @@
       <h5><%=data.courses.biologia.first[1].subtitulo[0]%></h5>
       <br>
     </div>
-    <div class="caja">
-    <h5>presentación</h5>
+    <div class="caja reducido">
+      <div class="caja-titulo">
+        <h5>presentación</h5>
+      </div>
     <%data.courses.biologia.first[1].presentacion.each do |present|%>
      <p><%= present%></p>
      <% end %>
     </div>
-    <div class="caja">
+    <div class="caja reducido">
     <h5>objetivos</h5>
     <p><%data.courses.biologia.first[1].objetivos.each do |objetivo|%>
      <p><%= objetivo%></p>
@@ -23,14 +25,14 @@
     </ul>
     <br>
     </div>
-    <div class="caja">
+    <div class="caja reducido">
      <h5>Programa</h5>
       <ul><%data.courses.biologia.first[1].programa.each do |modulo|%>
     <li> <%= modulo%></li>
      <% end %>
     </ul>
     </div>
-    <div class="caja">
+    <div class="caja reducido">
     <h5>dirección y profesores</h5>
     <p><b>Profesores</b></p>
        <ul><%data.courses.biologia.first[1].profesores.each do |profesor|%>

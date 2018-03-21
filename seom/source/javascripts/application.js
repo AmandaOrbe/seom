@@ -34,10 +34,22 @@ $('.curso-card').on('click', function(){
       $(this).css("margin-top", "-=5");
  });
 
-$('.caja').on('click', function(){
-      $(this).css("height", "50px").css("overflow", "hidden");
 
- });
+// $('.reducido').on('click', function(){
+//       $(this).removeClass('reducido').addClass('expandido', 600);
+
+//  });
+
+// $('.expandido').on('click', function(){
+//        console.log("sheriferino");
+//  });
+
+  $('.caja').on('click', function(e) {
+      $(this).toggleClass("expandido reducido", 600); //you can list several class names
+      e.preventDefault();
+    });
+
+
 });
 
 

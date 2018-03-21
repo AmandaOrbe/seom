@@ -38,6 +38,15 @@
   margin: 15px;
 }
 
+.reducido{
+  height: 50px;
+  overflow: hidden;
+}
+
+.expandido{
+  height: auto;
+  overflow: auto;
+}
 .caja{
   margin-top: 100px;
   margin-right: 10px;
@@ -49,6 +58,8 @@
   text-align: left;
   border-radius: 4px;
   box-shadow: 1px 1px 2px 0 rgba(153,153,153,0.51);
+
+
   li{
     color: black;
     font-weight: 100;
