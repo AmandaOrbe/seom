@@ -1,0 +1,22 @@
+<div class="title-left">
+  <h2>BIOLOGIA</h2>
+</div>
+<div class="caja">
+<p><%=data.courses.biologia.first %></p>
+<p>PRESENTACIÓN</p><p><%=data.courses.biologia.first[1].presentacion%></p>
+<p>OBJETIVOS Y COMPETENCIAS</p>
+<p>OBJETIVOS</p><p><%=data.courses.biologia.first[1].objetivos%></p>
+<p>COMPETENCIAS</p><ul><%data.courses.biologia.first[1].competencias.each do |competencia|%>
+<li> <%= competencia%></li>
+ <% end %>
+</ul>
+<p>PROGRAMA</p><p><%=data.courses.biologia.first[1].programa%></p>
+<p>DIRECCIÓN Y PROFESORES</p>
+<p>Profesores</p><p><%=data.courses.biologia.first[1].programa%></p>
+<p>Direcciín</p><p><%=data.courses.biologia.first[1].direccion%></p>
+<%= image_tag data.courses.biologia.first[1].imagen,  class: "imagen" %>
+
+
+</div>
+
+

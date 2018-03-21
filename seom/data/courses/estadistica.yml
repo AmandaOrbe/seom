@@ -1,0 +1,20 @@
+ESTADÍSTICA PARA ONCÓLOGOS:
+  subtitulo: []
+  presentacion: ["El curso se ha desarrollado un curso para dotar a los oncólogos médicos y radioterápicos de los conocimientos básicos de estadística. En los últimos años se ha incrementado el uso de la estadística como herramienta de análisis para los problemas biomédicos, por ello, actualmente es imprescindible para los profesionales de la oncología tener conocimientos de estadística."]
+  objetivos: ["Adquirir capacidad crítica para la lectura biomédica e interpretar de forma adecuada los resultados sobre procedimientos de diagnóstico y otras pruebas, así como protocolos de estudio."]
+  competencias: ["Comprender los distintos enfoques que se plantean para estudiar una situación de salud y aprender a identificar los principales diseños de los estudios de investigación.",
+    "Identificar las medidas que se utilizan en la investigación científica para cada uno de los estudios.",
+    "Conocer las ventajas y desventajas de los estudios.",
+    "Identificar los distintos tipos de variables."]
+  programa: ["Módulo 1. Revisión de conceptos estadísticos básicos",
+    "Módulo 2. Ensayos clínicos",
+    "Módulo 3. Metaanálisis"]
+  profesores: ["Mireia Díaz",
+    "Dra.Margarita Garcia",
+    "Maite Encuentra",
+    "Dr. Victor Moreno",
+    "Valentí Navarro"]
+  direccion: ["Dr. Víctor Moreno",
+    "Dra.Margarita Garcia"]
+  matricula: ["30 horas (4,9 créditos)", "75 horas (3 créditos)"]
+  imagen : adn.jpg

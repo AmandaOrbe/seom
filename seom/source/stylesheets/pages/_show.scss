@@ -1,0 +1,21 @@
+.title-left{
+  text-align: left;
+  h2{
+    font-size: 28px;
+    text-align: left;
+    font-weight: 300;
+    color: $green;
+  }
+}
+
+
+.caja{
+  margin-top: 100px;
+  height:1000px;
+  widows: 1000%;
+  background-color:white;
+  white-space: pre-line;
+  li{
+    color: black;
+  }
+}

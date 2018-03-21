@@ -30,6 +30,10 @@ $(function() {
 $('.section-container').on('click', function(){
       $(this).children().fadeIn(500);
  });
+$('.curso-card').on('click', function(){
+      $(this).css("margin-top", "-=5");
+ });
 
 });
+
 

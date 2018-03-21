@@ -1,0 +1,17 @@
+CÁNCER GENITOURINARIO:
+  subtitulo: []
+  presentacion: ["A lo largo del curso se abordan los aspectos más relevantes de los tumores del aparato genito-urinario a excepción del cáncer de próstata y de los tumores genitales femeninos. incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."]
+  objetivos: ["El curso proporciona a los alumnos las bases para aprender a diferenciar y tratar a los pacientes con tumores de origen renal, de la vejiga o germinales."]
+  competencias: ["Conocer los factores de riesgo y la epidemiología de los carcinomas uroteliales y los factores pronósticos.",
+    "Conocer el rol de la quimioterapia peroperatoria en el tratamiento.",
+    "Conocer el mejor abordaje terapéutico de los tumores renales teniendo en cuenta su biología, incluyendo las terapias inmunológicas y contras diana específicas.",
+    "Conocer los aspectos básicos del diagnóstico y tratamiento de los tumores germinales con especial hincapié en la epidemiología, histología y estadiaje según factores de riesgo."]
+  programa: ["Módulo 1. Cáncer de vejiga",
+    "Módulo 2. Cáncer renal",
+    "Módulo 3. Tumores germinales"]
+  profesores: ["Dr. Joaquim Bellmunt",
+    "Dr. Francesc Pons"]
+  direccion: ["Dr. Joaquim Bellmunt"]
+  matricula: ["10 horas (1,8 créditos)",
+    "25 horas (1 créditos)."]
+  imagen: adn.png

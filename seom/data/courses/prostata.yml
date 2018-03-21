@@ -1,0 +1,29 @@
+CÁNCER DE PRÓSTATA:
+  subtitulo: []
+  presentacion: ["A lo largo del curso se abordan los aspectos más relevantes del cáncer de próstata, incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."]
+  objetivos: ["El curso proporciona a los alumnos las bases para aprender a diferenciar y tratar a los pacientes con cáncer de próstata."]
+  competencias: ["Conocer la anatomía y fisiología normal de la próstata.",
+    "Conocer las bases diagnosticas y de tratamiento de los estadios iniciales.",
+    "Identificar el tratamiento adecuado en el caso de cáncer de próstata localmente avanzado pero sin metástasis generalizadas.",
+    "Aprender las estrategias de seguimiento después del tratamiento e identificar la actuación terapéutica adecuada en caso de recaída bioquímica.",
+    "Conocer los tratamientos y cuidados del paciente en casos de tumor con metástasis i enfermedad avanzada y establecer las indicaciones de la hormonoterapia para el control de la enfermedad avanzada.",
+    "Conocer la historia natural, como diagnosticar y pautas de tratamiento en los tumores hormonoresistentes.",
+    "Tener información general de otros tumores prostáticos de presentaciones poco frecuentes como por ejemplo los tumores neuroendocrinos."]
+  programa: ["Módulo 1. Epidemiología, screening, prevención e historia natural",
+    "Módulo 2. Tumor confinado al órgano",
+    "Módulo 3. Tumor extra prostático no metastásico",
+    "Módulo 4. Seguimiento y recidiva bioquímica",
+    "Módulo 5. Tumor metastásico y enfermedad avanzada",
+    "Módulo 6. Tumor hormono-resistente",
+    "Módulo 7. Tumores y presentaciones poco frecuentes"]
+  profesores: ["Dr. Ferran Algaba",
+    "Dr. Andrés García Palomo",
+    "Dr. Josep Ramón Germà",
+    "Dr. Antonio González",
+    "Dr. Antonio Lorente",
+    "Dr. Rafael Medina",
+    "Dr. Xavier Maldonado",
+    "Dr. Almudena Zapatero"]
+  direccion: ["Dr. Josep Ramón Germà"]
+  matricula: ["60 horas (8,6 créditos)", "150 horas (6 créditos)"]
+  imagen: adn.png
