@@ -2,6 +2,13 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
+# Assumes the file source/about/template.html.erb exists
+
+lista_cursos = ["biologiamolecular", "cabeza-y-cuello", "cancer-gastrointestinal", "tumores-genito-urinarios", "tumores-ginecologicos", "cancer-de-mama", "cancer-prostata", "cancer-de-pulmon", "cancer-de-tiroides", "tumores-snc", "consejo-genetico-en-cancer", "cuidados-continuos", "etv", "epidemiologia-y-prevencion", "estadisticas-oncologos", "farmacologia-clinica-oncologica", "habilidades-comunicativas", "inmunooncologia", "investigacion-clinica-en-oncologia", "linfomas-y-mieloma", "melanoma", "sarcoma", "urgencias-en-oncologia", "tumores-de-origen-desconocido", "tumores-neuroendocrinos"]
+lista_cursos.each do |name|
+  proxy "/#{name}.html", "/show.html", :locals => { :curso => name }
+end
+
 activate :sprockets
 
 page '/*.xml', layout: false
@@ -20,3 +27,5 @@ activate :deploy do |deploy|
   deploy.build_before = true
   deploy.deploy_method = :git
 end
+
+

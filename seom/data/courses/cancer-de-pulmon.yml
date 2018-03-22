@@ -1,4 +1,5 @@
 CÁNCER DE PULMÓN:
+  titulo: "CÁNCER DE PULMÓN"
   subtitulo: []
   presentacion: ["A lo largo del curso se abordan los aspectos más relevantes del cáncer de pulmón, incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."]
   objetivos: ["Este curso pretende ofrecer unos conocimientos teóricos básicos y actualizados sobre el cáncer de pulmón que sean de utilidad para completar la formación en este campo del Médico Residente de Oncología Médica, así como de los especialistas implicado en el manejo de pacientes con cáncer de pulmón."]
@@ -17,8 +18,8 @@ CÁNCER DE PULMÓN:
     "Dra. Pilar Garrido",
     "Dr. José Luis González-Larriba",
     "Dra. Dolores Isla",
-    "Dr. Jordi Remón Masip"
-    "Dra. Pilar Lianes"
+    "Dr. Jordi Remón Masip",
+    "Dra. Pilar Lianes",
     "Dr. José Manuel Trigo"]
   direccion: ["Dra. Dolores Isla"]
   matricula: ["30 horas (4,9 créditos)",

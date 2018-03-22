@@ -1,4 +1,5 @@
 EPIDEMIOLOGÍA Y PREVENCIÓN:
+  titulo: "EPIDEMIOLOGÍA Y PREVENCIÓN"
   subtitulo: []
   presentacion: ["A lo largo del curso se abordan los aspectos más relevantes sobre la epidemiología y prevención del cáncer y se revisan conceptos básicos en epidemiologia en relación a riesgo de enfermedad, diseños de estudios de investigación combinado con ejemplos sobre la interpretación de datos estadísticos."]
   objetivos: ["Formar al estudiante en los principios y métodos de la epidemiología, prevención y control del cáncer."]
@@ -13,4 +14,4 @@ EPIDEMIOLOGÍA Y PREVENCIÓN:
   direccion: ["Dra. Sílvia de Sanjosé"]
   matricula: ["10 horas (1,8 créditos)",
     " 25 horas (1 créditos)."]
-  imagen : adn.jpg
+  imagen : adn.png

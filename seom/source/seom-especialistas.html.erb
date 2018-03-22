@@ -9,21 +9,21 @@
 </div>
 
 <div class="especialistas">
-  <h3>CATÁLOGO DE CURSOS</h3>
+  <h3>CATÁLOGO DE CURSOS </h3>
   <br>
   <div class="cards">
     <div class="row">
-      <% data.cursos.each do |programa, detalle| %>
+      <%data.courses.each do |curso|%>
         <div class="col-xs-12 col-sm-6  col-md-4">
           <div class="curso-card">
             <div class="curso-title">
-              <%= link_to programa.upcase , "" , class: " lista titulos-lista", id: programa %>
+              <h3 class=" lista titulos-lista"><%= curso[1].first[1].titulo%></h3>
             </div>
             <div class="curso-text">
-              <p><%=detalle.presentacion%></p>
+              <p><%=curso[1].first[1].presentacion[0]%></p>
             </div>
             <div class="curso-cta">
-              <%= link_to "Inscríbete", "form.html" , class: " btn-home centered" %>
+              <%= link_to "Inscríbete", "/#{curso[0]}.html" , class: " btn-home centered" %>
             </div>
           </div>
         </div>

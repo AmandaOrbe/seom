@@ -1,5 +1,6 @@
 CÁNCER DE MAMA:
-  subtitulo: "Este curso de la realizado con el Grupo Español de Cáncer de Mama (GEICAM)"
+  titulo: "CÁNCER DE MAMA"
+  subtitulo: ["Este curso de la realizado con el Grupo Español de Cáncer de Mama (GEICAM)"]
   presentacion: ["El Grupo Español de Investigación en Cáncer de Mama (GEICAM) junto con la Sociedad Española de Oncología Médica (SEOM) y e-oncología han desarrollado un curso virtual multidisciplinar de cáncer de mama, en el que han colaborado los mejores especialistas del país en este campo."]
   objetivos: ["Adquirir una visión multidisciplinar del abordaje del cáncer de mama, que abarca desde la epidemiología y prevención hasta los cuidados continuos, pasando obviamente por el diagnóstico y el tratamiento."]
   competencias: ["Identificar escenarios clínicos comunes en el cáncer de mama.",
