@@ -21,3 +21,22 @@
   margin: 0 15px;
   height: 40px;
 }
+
+.navbarxsimage{
+  margin: 0 15px;
+  height: 23px;
+}
+
+@media (min-width: 720px) {
+  .navbarxs{
+    display:none;
+    width: 100vh;
+  }
+}
+
+@media (max-width: 720px) {
+  .navbarsm{
+    display:none;
+    width: 100vh;
+  }
+}

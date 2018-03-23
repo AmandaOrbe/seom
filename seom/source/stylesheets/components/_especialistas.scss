@@ -3,11 +3,18 @@
 }
 
 .curso-title{
-  height: 40%;
+  height: 20%;
   width: 80%;
   margin: 0 auto;
   display: flex;
   align-items: center;
+  justify-content: space-around;
+  h3{
+    text-align:center;
+  }
+  h3:hover{
+    color: red;
+  }
 }
 
 .curso-text{
@@ -26,10 +33,15 @@
     width: 80%;
   margin: 15px auto;
 }
+
+.card-space{
+  height: 460px;
+  border: 1px solid #EFF8F8;
+}
 .curso-card{
-  height: 300px;
+  height: 420px;
   width: 270px;
-  padding: 8px 30px;
+  padding: 15px;
   background-color: white;
   margin: 10px;
   border-radius: 4px;
@@ -37,7 +49,24 @@
   text-align: center;
 }
 
+.curso-card:hover{
+  box-shadow: 2px 2px 2px 0 rgba(153,153,153,0.80);
+  width: 271px;
+  height: 421px;
+}
 
+.imagen-card-frame{
+  overflow:hidden;
+  height: 165px;
+  width: 230px;
+  margin: 5px auto;
+  border-radius: 4px;
+}
+.imagen-card{
+  width: 230px;
+  height: auto;
+
+}
 
 .especialistas{
   width:100%;
@@ -56,7 +85,6 @@
   .titulos-lista:hover{
       text-decoration:none;
       font-weight: 300;
-      line-height: 30px;
       letter-spacing: -1px;
     };
   .tabs{

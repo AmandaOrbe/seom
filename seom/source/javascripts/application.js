@@ -31,14 +31,16 @@ $('.section-container').on('click', function(){
       $(this).children().fadeIn(500);
  });
 $('.curso-card').on('click', function(){
-      $(this).css("margin-top", "-=5");
+      $(this).animate({"margin-top": "-=5"}, 500).animate({"margin-top": "+=5"}, 500)
  });
 
 
-
   $('.caja').on('click', function(e) {
-      $(this).toggleClass("expandido reducido", 600); //you can list several class names
+      $(this).not(".lista").toggleClass("expandido reducido", 600); //you can list several class names
       e.preventDefault();
+      $( '.lista-cursos' ).click(function( event ) {
+      event.stopPropagation();
+});
     });
 
 

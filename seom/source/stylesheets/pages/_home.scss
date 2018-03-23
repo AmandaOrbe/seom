@@ -25,7 +25,9 @@
     font-weight: 100;
     font-size: 12px;
   }
-
+  a{
+    text-decoration: none;
+  }
   .titles{
   height: 250px;
   padding: 25px 50px;
@@ -43,7 +45,7 @@
 
 .seom-container{
 
-  width: 80%;
+
   max-width: 850px;
   margin: 0 auto;
 
@@ -66,5 +68,34 @@
     padding-bottom: 15px;
   }
 
+}
 
+
+@media (max-width: 800px) {
+  .seom-container{
+     width: 80%;
+  }
+  .basic-template{
+    h1{
+      font-size: 18px;
+    }
+
+    .boxes{
+      display: block;
+      height: auto;
+
+    }
+    .seom-container{
+
+      width: 95%;
+
+    }
+    .index-box{
+      margin: 0 auto 20px auto;
+    }
+    .titles{
+      height: auto;
+      padding: 25px 50px;
+  }
+  }
 }

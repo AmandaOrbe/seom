@@ -15,16 +15,21 @@
     <div class="row">
       <%data.courses.each do |curso|%>
         <div class="col-xs-12 col-sm-6  col-md-4">
-          <div class="curso-card">
-            <div class="curso-title">
-              <h3 class=" lista titulos-lista"><%= curso[1].first[1].titulo%></h3>
-            </div>
-            <div class="curso-text">
-              <p><%=curso[1].first[1].presentacion[0]%></p>
-            </div>
-            <div class="curso-cta">
-              <%= link_to "Inscríbete", "/#{curso[0]}.html" , class: " btn-home centered" %>
-            </div>
+          <div class="card-space">
+            <% link_to "/#{curso[0]}.html" do %>
+              <div class="curso-card">
+                <div class="imagen-card-frame">
+                  <%= image_tag curso[1].first[1].imagen,  class: "imagen-card" %>
+                </div>
+                <div class="curso-title">
+                  <h3 class=" lista titulos-lista"><%= curso[1].first[1].titulo%></h3>
+                </div>
+                <div class="curso-text">
+
+                  <p><%=curso[1].first[1].presentacion[0]%></p>
+                </div>
+              </div>
+            <% end %>
           </div>
         </div>
       <% end %>

@@ -33,3 +33,30 @@
     font-weight: 300;
   }
 }
+
+@media (max-width: 800px) {
+  .footer-seom{
+    display: block;
+    height: auto;
+    padding-top: 10px;
+    p, a{
+      font-size: 10px;
+      font-weight: 100;
+      margin-bottom: 5px;
+
+    }
+  }
+  .footer-line{
+    display: block;
+  }
+  .footer1image{
+  height: 40px;
+}
+
+.footer2image{
+  height: 25px;
+}
+.logoline{
+  display: none;
+}
+}

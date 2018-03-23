@@ -1,37 +1,99 @@
+<div class="muestra">
+  <div class="title-show show-down">
+    <div class="title-show">
+     <h2>MÁSTER EN ONCOLOGÍA MÉDICA:
+      CERTIFICACIÓN SEOM</h2>
+      <p>La Certificación SEOM - Máster en Oncología Médica cuenta con la acreditación universitaria de la Universitat de Girona (60 créditos) y está adaptada al Plan Bolonia.
 
-<div class="titles">
-  <h1>MÁSTER EN ONCOLOGÍA MÉDICA:
-    CERTIFICACIÓN SEOM
-  </h1>
-  <p>La Certificación SEOM - Máster en Oncología Médica cuenta con la acreditación universitaria de la Universitat de Girona (60 créditos) y está adaptada al Plan Bolonia.
+      Los profesores y autores de los contenidos han sido seleccionados por la SEOM entre los mejores especialistas de cada uno de sus ámbitos y e-oncología ha liderado la coordinación académica y científica de los contenidos, así como el soporte pedagógico y tecnológico del campus virtual.</p>
+      <br>
+    </div>
+  </div>
+  <div class="show-left">
+    <div class="title-show">
+      <h2>MÁSTER EN ONCOLOGÍA MÉDICA:
+      CERTIFICACIÓN SEOM</h2>
+      <p>La Certificación SEOM - Máster en Oncología Médica cuenta con la acreditación universitaria de la Universitat de Girona (60 créditos) y está adaptada al Plan Bolonia.
 
-    Los profesores y autores de los contenidos han sido seleccionados por la SEOM entre los mejores especialistas de cada uno de sus ámbitos y e-oncología ha liderado la coordinación académica y científica de los contenidos, así como el soporte pedagógico y tecnológico del campus virtual.
-  </p>
-</div>
-
-
-<div class="tabs">
-
-  <%= link_to "Presentación", "#presentacion" , class: "tab active", data: { toggle: 'tab'} %>
-  <%= link_to "Objetivos", "#objetivos" , class: "tab ", data: { toggle: 'tab'} %>
-  <%= link_to "Programa", "#programa" , class: "tab ", data: { toggle: 'tab'} %>
-  <%= link_to "Dirección y Profesores", "#profesores" , class: "tab ", data: { toggle: 'tab'} %>
-  <%= link_to "Matrícula y Calendario", "#calendario" , class: "tab ", data: { toggle: 'tab'} %>
-</div>
-  <div class="tab-content">
-    <div id="presentacion" class="tab-pane faden active"><%= partial "master/presentacion" %></div>
-    <div id="objetivos" class="tab-pane fade"><%= partial "master/objetivos" %></div>
-    <div id="programa" class="tab-pane fade"><%= partial "master/programa" %></div>
-    <div id="profesores" class="tab-pane fade"><%= partial "master/profesores" %></div>
-    <div id="calendario" class="tab-pane fade"><%= partial "master/calendario" %></div>
-    <div class="centered">
-       <%= link_to "Inscríbete", "form.html" , class: " btn-home centered" %>
+      Los profesores y autores de los contenidos han sido seleccionados por la SEOM entre los mejores especialistas de cada uno de sus ámbitos y e-oncología ha liderado la coordinación académica y científica de los contenidos, así como el soporte pedagógico y tecnológico del campus virtual.</p>
+      <br>
+    </div>
+    <div class="tabs">
+      <%= link_to "Presentación", "#presentacion" , class: "tab active", data: { toggle: 'tab'} %>
+      <%= link_to "Objetivos", "#objetivos" , class: "tab ", data: { toggle: 'tab'} %>
+      <%= link_to "Programa", "#programa" , class: "tab ", data: { toggle: 'tab'} %>
+      <%= link_to "Dirección y Profesores", "#profesores" , class: "tab ", data: { toggle: 'tab'} %>
+    </div>
+    <div class="tab-content">
+      <div id="presentacion" class="tab-pane faden active"><%= partial "master/presentacion" %></div>
+      <div id="objetivos" class="tab-pane fade"><%= partial "master/objetivos" %></div>
+      <div id="programa" class="tab-pane fade"><%= partial "master/programa" %></div>
+      <div id="profesores" class="tab-pane fade"><%= partial "master/profesores" %></div>
+      <div class="centered">
+         <%= link_to "Inscríbete", "https://www.seom.org/es/preinscripcion-certificacion-seom" , class: " btn-home centered" %>
        </div>
        <br>
+    </div>
   </div>
-  <br>
-  <br>
-  <br>
+  <div class="master-right">
+    <div class="tall">
+      <div class="imagen-curso-frame">
+        <%= image_tag "adn.png",  class: "imagen-curso" %>
+      </div>
+      <h4>MATRÍCULA ABIERTA</h4>
+      <br>
+      <%= link_to "Inscríbete", "https://www.seom.org/es/preinscripcion-certificacion-seom" , class: " btn-home centered" %>
+      <br>
+      <br>
+      <ul>
+        <li>Preinscripción y Matrícula: Octubre 2017.</li>
+        <li>El curso académico 2017-2018 se inicia el 01 de Octubre de 2017 hasta 01 de Octubre de 2018.</li>
+        <li>Número total de créditos obligatorios: 60 ECTS (European Transfer Credit System).</li>
+        <li>Número total de horas: 1500 horas.</li>
+        <li>El programa completo se debe completar en un máximo de 3 cursos académicos para obtener la titulación.</li>
+      </ul>
+      <br>
+    </div>
+    <div class="short">
+      <p><b>El Máster en Oncología Médica</b> es el itinerario formativo completo de la Certificación SEOM, está dirigido especialmente a <b></b>residentes y especialistas jóvenes de Oncología Médica</b>, pero también puede ser cursado por otros especialistas.</p>
+      <p>El Máster complementa la adquisición de conocimientos que se adquiere en los hospitales como <b>parte del programa MIR.</b></p>
+      <p>Si el alumno es socio de la SEOM puede solicitar una de las <b>becas de formación a la Sociedad Española de Oncología Médica.</b></p>
+    </div>
+  </div>
+  <div class="show-down">
+
+    <div class="caja reducido">
+      <h5>presentación</h5>
+      <%= partial "master/presentacion" %>
+    </div>
+    <div class="caja reducido">
+    <h5>objetivos</h5>
+    <%= partial "master/objetivos" %>
+    <br>
+    </div>
+    <div class="caja reducido">
+     <h5>Programa</h5>
+      <%= partial "master/programa" %>
+    </div>
+    <div class="caja reducido">
+    <h5>dirección y profesores</h5>
+    <p><b>Profesores</b></p>
+      <%= partial "master/profesores" %>
+    </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

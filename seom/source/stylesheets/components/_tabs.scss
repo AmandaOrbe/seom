@@ -1,10 +1,16 @@
 .tabs{
   display: flex;
   justify-content: space-between;
+   a:hover{
+      text-decoration:none !important;
+      font-weight: 400!important;
+
+
+    }
 }
 
 .tab{
-  width: 140px;
+  min-width: 120px;
   padding: 10px 7px;
   background-color: white;
   color: $green;
@@ -12,8 +18,13 @@
   text-decoration: none;
   border-radius: 4px;
   box-shadow: 1px 1px 2px 0 rgba(22,153,152,0.51);
-}
+  white-space: nowrap;
 
+
+}
+.tab:hover{
+   box-shadow: 2px 2px 2px 0 rgba(22,153,153,0.80);
+  }
 
 .fade {
     opacity: 0;
@@ -28,12 +39,13 @@
 }
 
 .tab-content{
+  height: auto;
   margin-top: 25px;
+  margin-bottom: 25px;
   padding: 0 70px;
   background-color: white;
   border-radius: 6px;
   box-shadow: 1px 1px 2px 0 rgba(22,153,152,0.51);
-  white-space: pre-line;
   text-align: justify;
   h3 {
   color: $green !important;
@@ -55,39 +67,31 @@
 .centered{
   width:100%;
   text-align: center;
-  margin-top: -80px;
+  margin: 50px auto;
   vertical-align: middle;
 
 }
 
+#objetivos{
+  height: auto;
+}
+
 .lista-cursos{
+  text-align: left;
   a{ font-family: "Montserrat";
       color: $green !important;
       font-weight: 100;
       font-size: 15px;
-      line-height: 30px;
+      line-height: 18px;
       letter-spacing: -1px;
+      margin-bottom: 10px;
+
     }
   a:hover{
       text-decoration:none;
       font-weight: 300;
-      line-height: 30px;
       letter-spacing: -1px;
     }
-}
-#presentacion{
-  margin-top: 50px;
-}
-#programa{
-  margin-top: -26px;
-}
-
-#calendario{
-  margin-top: -80px;
-}
-#profesores{
-  margin-top: -50px;
-   white-space: normal;
 }
 
 .claustro{
@@ -98,6 +102,7 @@
     list-style-type: none;
     margin: 0;
     padding: 0;
+    text-align: left;
   }
 }
 

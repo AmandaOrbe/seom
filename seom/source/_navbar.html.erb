@@ -1,9 +1,15 @@
-<div class="navbarseom">
-  <div class="navbar-left">
-    <%= image_tag "images/mastere-oncologia.png", class: "navbar1image"%>
-    <%= image_tag "images/certificacionseom.png", class: "navbar1image"%>
-  </div>
-  <div class="navbar-right">
-    <button class="btn-navbar">Acceso al campus virtual</button>
+<div class="navbarsm">
+  <div class="navbarseom">
+    <div class="navbar-left">
+      <% link_to '/' do %>
+        <%= image_tag 'mastere-oncologia.png', class: "navbar1image" %>
+      <% end %>
+      <% link_to '/' do %>
+        <%= image_tag 'certificacionseom.png', class: "navbar1image" %>
+      <% end %>
+    </div>
+    <div class="navbar-right">
+      <button class="btn-navbar">Acceso al campus virtual</button>
+    </div>
   </div>
 </div>

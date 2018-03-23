@@ -1,4 +1,11 @@
 <div class="muestra">
+  <div class="title-show show-down">
+    <div class="title-show">
+      <h2><%=data.courses[curso].first[1].titulo%></h2>
+      <h3><%=data.courses[curso].first[1].subtitulo[0]%></h3>
+      <br>
+    </div>
+  </div>
   <div class="show-left">
     <div class="title-show">
       <h2><%=data.courses[curso].first[1].titulo%></h2>
@@ -7,14 +14,16 @@
     </div>
     <div class="caja reducido">
       <div class="caja-titulo">
-        <h5>presentación</h5>
+        <h5>PRESENTACIÓN</h5>
       </div>
     <%data.courses[curso].first[1].presentacion.each do |present|%>
      <p><%= present%></p>
      <% end %>
     </div>
     <div class="caja reducido">
-    <h5>objetivos</h5>
+    <h5>OBJETIVOS Y COMPETENCIAS</h5>
+    <br>
+    <h5>Objetivos</h5>
     <p><%data.courses[curso].first[1].objetivos.each do |objetivo|%>
      <p><%= objetivo%></p>
      <% end %>%>
@@ -26,14 +35,14 @@
     <br>
     </div>
     <div class="caja reducido">
-     <h5>Programa</h5>
+     <h5>PROGRAMA</h5>
       <ul><%data.courses[curso].first[1].programa.each do |modulo|%>
     <li> <%= modulo%></li>
      <% end %>
     </ul>
     </div>
     <div class="caja reducido">
-    <h5>dirección y profesores</h5>
+    <h5>DIRECCIÓN Y PROFESORES</h5>
     <p><b>Profesores</b></p>
        <ul><%data.courses[curso].first[1].profesores.each do |profesor|%>
         <li> <%= profesor%></li>
@@ -49,7 +58,10 @@
 
   </div>
   <div id="show-right">
-     <%= image_tag data.courses[curso].first[1].imagen,  class: "imagen-curso" %>
+    <div class="tall">
+    <div class="imagen-curso-frame">
+      <%= image_tag data.courses[curso].first[1].imagen,  class: "imagen-curso" %>
+    </div>
     <h4>MATRÍCULA ABIERTA</h4>
     <br>
     <%= link_to "Inscríbete", "https://www.seom.org/es/preinscripcion-certificacion-seom" , class: " btn-home centered" %>
@@ -57,6 +69,56 @@
     <br>
     <p><b>Duración y créditos FMC:</b><%=data.courses[curso].first[1].matricula[0]%></p>
     <p><b>Duración y créditos ECTS:</b><%=data.courses[curso].first[1].matricula[1]%></p>
+    <br>
+  </div>
+  <br>
+  </div>
+
+  <div class="show-down">
+
+    <div class="caja reducido">
+      <div class="caja-titulo">
+        <h5>PRESENTACIÓN</h5>
+      </div>
+    <%data.courses[curso].first[1].presentacion.each do |present|%>
+     <p><%= present%></p>
+     <% end %>
+    </div>
+    <div class="caja reducido">
+    <h5>OBJETIVOS Y COMPETENCIAS</h5>
+    <h5>OBJETIVOS </h5>
+    <p><%data.courses[curso].first[1].objetivos.each do |objetivo|%>
+     <p><%= objetivo%></p>
+     <% end %>%>
+    <h5>COMPETENCIAS</h5>
+    <ul><%data.courses[curso].first[1].competencias.each do |competencia|%>
+    <li> <%= competencia%></li>
+     <% end %>
+    </ul>
+    <br>
+    </div>
+    <div class="caja reducido">
+     <h5>Programa</h5>
+      <ul><%data.courses[curso].first[1].programa.each do |modulo|%>
+    <li> <%= modulo%></li>
+     <% end %>
+    </ul>
+    </div>
+    <div class="caja reducido">
+    <h5>DIRECCIÓN Y PROFESORES</h5>
+    <p><b>Profesores</b></p>
+       <ul><%data.courses[curso].first[1].profesores.each do |profesor|%>
+        <li> <%= profesor%></li>
+     <% end %>
+    </ul>
+
+    <p><b>Dirección</b></p>
+    <ul><%data.courses[curso].first[1].direccion.each do |director|%>
+        <li> <%= director%></li>
+     <% end %>
+    </div>
+
+
   </div>
 </div>
 
