@@ -71,6 +71,20 @@
 }
 
 
+.index-box:hover{
+  width: 300px;
+  height: 352px;
+}
+
+.document-card{
+ border-radius: 4px;
+  box-shadow: 1px 1px 2px 0 rgba(153,153,153,0.51);
+}
+
+.document-card:hover{
+  box-shadow: 2px 2px 2px 0 rgba(153,153,153,0.80);
+}
+
 @media (max-width: 800px) {
   .seom-container{
      width: 80%;

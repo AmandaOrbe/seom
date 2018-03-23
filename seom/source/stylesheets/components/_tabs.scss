@@ -94,27 +94,5 @@
     }
 }
 
-.claustro{
-  white-space: normal;
-  display: flex;
-  justify-content: space-between;
-  li {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    text-align: left;
-  }
-}
 
-.claustro-column{
-  width:45%;
-}
 
-.list-no-deco{
-    li {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    white-space: normal;
-  }
-}

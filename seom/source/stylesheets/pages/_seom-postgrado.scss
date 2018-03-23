@@ -1,6 +1,6 @@
+// lado derecho (el lado izdo está en tabs)
+
 .master-right{
-
-
 
   p, li{
     margin: 10px 25px 10px 12px;
@@ -9,8 +9,6 @@
     font-size: 12px;
     font-weight: 100;
   }
-
-
 }
 
 .tall, .short{
@@ -25,8 +23,6 @@ padding-top:15px;
 .short{
 
   padding: 25px 15px 25px 25px;
-
-
 }
 
 .curso-margin{
@@ -44,6 +40,21 @@ padding-top:15px;
 
   }
 }
+
+.claustro{
+  white-space: normal;
+  display: block;
+  li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+  }
+}
+
+.claustro-column{
+  width:90%;
+}
 // grande
 
 
@@ -53,4 +64,24 @@ padding-top:15px;
   width: 300px;
   margin-left: 20px;
   }
+
+
+
+
+
+.claustro{
+  white-space: normal;
+  display: flex;
+  justify-content: space-between;
+  li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+  }
+}
+
+.claustro-column{
+  width:45%;
+}
 }

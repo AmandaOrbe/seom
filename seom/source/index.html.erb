@@ -10,18 +10,22 @@ title: Le Wagon - Middleman
   <br>
 </div>
 <div class="boxes">
-  <div class="index-box">
+  <% link_to "/seom-postgrado.html" do %>
+  <div class="index-box document-card">
     <h2>MASTER EN ONCOLOGÍA MÉDICA </h2>
     <h4>Para residentes y adjuntos jóvenes: </h4>
     <p>Dirigido a médicos residentes de Oncología Médica o adjuntos jóvenes que hayan finalizado en los dos años anteriores al inicio del curso académico. También lo pueden cursar otros especialistas interesados en la materia.</p>
     <%= link_to "Saber más", "/seom-postgrado.html" , class: " btn-home" %>
   </div>
-  <div class="index-box">
+  <% end %>
+  <% link_to "/seom-especialistas.html"  do %>
+  <div class="index-box document-card">
     <h2>CURSOS INDIVIDUALES DE FORMACIÓN MÉDICA CONTINUADA </h2>
     <h4>Para especialistas </h4>
     <p> Dirigido a médicos especialistas de Oncología Médica. También los pueden cursar otros especialistas interesados en la materia. Cursos acreditados por el Sistema Nacional de Salud (SNS) como formación médica continuada. </p>
     <%= link_to "saber más", "/seom-especialistas.html" , class: " btn-home" %>
   </div>
+  <% end %>
 </div>
 
 

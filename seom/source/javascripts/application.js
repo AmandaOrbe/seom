@@ -19,11 +19,25 @@ $(function() {
       $('body').css("overflow", "hidden");
 
   });
-   $('.btn-cancel').on('click', function(){
-      $('.lightbox').fadeOut(500);
+
+
+  $('.btn-cancel, .lightbox').on('click', function(e){
+      $(".lightbox").fadeOut(500);
       $('body').css("overflow", "initial");
+      e.preventDefault();
+      $( '.white-box' ).click(function( event ) {
+      event.stopPropagation();
+});
   });
 
+
+
+  $("html").keydown(function(event){
+    if (event.which === 27){
+      $(".lightbox").fadeOut(500);
+      $('body').css("overflow", "initial");
+    };
+  });
 
 // especialistas
 
