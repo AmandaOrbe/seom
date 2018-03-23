@@ -1,6 +1,7 @@
 SARCOMA:
   titulo: "SARCOMA"
   subtitulo: []
+  intro: "A lo largo del curso se abordan los aspectos más relevantes de los sarcomas incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."
   presentacion: ["A lo largo del curso se abordan los aspectos más relevantes de los sarcomas incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."]
   objetivos: ["Proporcionar a los alumnos el conocimiento que les permita el manejo de los sarcomas de partes blandas (SPB), los tumores del estroma gastrointestinal (GIST) y los sarcomas óseos de mayor incidencia (Osteosarcoma y Sarcoma Ewing)."]
   competencias: ["Conocer el método de elección en diagnóstico y estadificación de una masa de partes blandas indeterminada o sospechosa.",
