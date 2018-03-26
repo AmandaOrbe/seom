@@ -6,7 +6,7 @@ end
 
 lista_cursos = ["biologiamolecular", "cabeza-y-cuello", "cancer-gastrointestinal", "tumores-genito-urinarios", "tumores-ginecologicos", "cancer-de-mama", "cancer-prostata", "cancer-de-pulmon", "cancer-de-tiroides", "tumores-snc", "consejo-genetico-en-cancer", "cuidados-continuos", "etv", "epidemiologia-y-prevencion", "estadisticas-oncologos", "farmacologia-clinica-oncologica", "habilidades-comunicativas", "inmunooncologia", "investigacion-clinica-en-oncologia", "linfomas-y-mieloma", "melanoma", "sarcoma", "urgencias-en-oncologia", "tumores-de-origen-desconocido", "tumores-neuroendocrinos"]
 lista_cursos.each do |curso|
-  proxy "/#{name}.html", "/show.html", :locals => { :curso => curso }
+  proxy "/#{curso}.html", "/show.html", :locals => { :curso => curso }
 end
 
 activate :sprockets
