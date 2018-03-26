@@ -19,6 +19,16 @@ background-color: $darkgreen;
   border-color: $green;
 }
 
+.btn-red{
+    background-color: #E95262;
+    border-radius: 25px;
+    padding: 7px 25px;
+    color: white !important;
+    font-size: 12px;
+    font-weight: 100;
+    border-color: #E95262;
+  }
+
 .btn-login{
   margin-top: 25px;
   width:100%;
