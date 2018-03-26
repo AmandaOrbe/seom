@@ -7,7 +7,7 @@ end
 
 lista_cursos = ["biologiamolecular"]
 lista_cursos.each do |curso|
-  proxy "/#{curso}.html", "/show.html", :locals => { :curso => curso }
+  proxy "/#{curso}.html", "/show.html", :locals => { :curso => curso },  ignore: true
 end
 
 activate :sprockets
