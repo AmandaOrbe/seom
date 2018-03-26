@@ -1,0 +1,25 @@
+CONSEJO GENÉTICO EN CÁNCER:
+  titulo: "CONSEJO GENÉTICO EN CÁNCER"
+  subtitulo: []
+  intro: "Aunque el interés de la Genética Clínica inicialmente se basó en explicar la etiología de las enfermedades monogénicas de herencia mendeliana, la naturaleza hereditaria de las enfermedades ha sido reconocida..."
+  presentacion: ["Aunque el interés de la Genética Clínica inicialmente se basó en explicar la etiología de las enfermedades monogénicas de herencia mendeliana, la naturaleza hereditaria de las enfermedades ha sido reconocida desde la antigüedad. El desarrollo tecnológico y el conocimiento en profundidad del genoma ha permitido el descubrimiento con carácter exponencial de la causa de múltiples enfermedades comunes, consecuencia de la interacción de factores genéticos y no genéticos, con el último propósito de dirigir intervenciones individualizadas y cambios de estilo de vida que prevengan la enfermedad. La identificación y selección de los individuos en base a su condición de riesgo de cáncer, tributarios del asesoramiento, estudio genético y programa de cribado adecuados demuestra claramente cómo la Genética pretendía optimizar el manejo médico de esta población en la actualidad, su impacto en el desarrollo terapéutico y tratamiento de pacientes con cáncer hereditario es ya una realidad."]
+  objetivos: ["Conocer el origen del conocimiento de la base etiológica de los síndromes de predisposición a cáncer más tempranamente reconocidos.",
+    "Conocer los distintos patrones de herencia y su papel en los síndromes de predisposición a cáncer.",
+    "Conocer generalidades sobre la base genética del cáncer y los síndromes de cáncer hereditario más frecuentes."]
+  competencias: []
+  programa: ["Módulo 1: Bases del Cáncer Hereditario",
+    "Módulo 2: Proceso de Consejo Genético en individuos con riesgo de desarrollar cáncer",
+    "Módulo 3: Síndromes hereditarios asociados a cáncer",
+    "Módulo 4: Técnicas de diagnóstico molecular",
+    "Módulo 5: Implementación de los paneles en la práctica clínica diaria",
+    "Módulo 6: Implicaciones terapéuticas del resultado de estudios genéticos en pacientes con cáncer"]
+  profesores: ["Dr. Joan Brunet",
+    "Dra. Begoña Graña Suárez",
+    "Dr. Enrique Lastra",
+    "Dra. Conxi Lázaro",
+    "Dra. Teresa Ramón y Cajal"]
+  direccion: ["Dr. Álex Teulé"]
+  matricula: ["25 horas (créditos pendientes)",
+    "62,5 horas (2,5 créditos)"]
+  imagen : consejo-genetico-en-cancer.jpeg
+

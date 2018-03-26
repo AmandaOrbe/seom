@@ -1,0 +1,21 @@
+CÁNCER DEL SISTEMA NERVIOSO CENTRAL:
+  titulo: "CÁNCER DEL SISTEMA NERVIOSO CENTRAL"
+  subtitulo: []
+  intro: "A lo largo del curso se abordan los aspectos más relevantes de los tumores del SNC incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."
+  presentacion: ["A lo largo del curso se abordan los aspectos más relevantes de los tumores del SNC incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."]
+  objetivos: ["El curso proporciona a los alumnos las bases para aplicar las mejores opciones de diagnóstico y tratamiento a los pacientes con tumores del sistema nervioso central."]
+  competencias: ["Conocer la historia natural de los tumores del SNC, su epidemiología y factores de riesgo.",
+    "Reconocer las manifestaciones clínicas de los tumores del SNC y realizar un diagnóstico adecuado.",
+    "Conocer los diferentes factores pronósticos de los tumores del SNC.",
+    "Identificar los tipos de gliomas (astocitromas y Oligodendrogliomas), sus características clínicas y opciones de tratamiento.",
+    "Determinar los factores pronósticos, características clínicas y opciones de tratamiento de los meningiomas.",
+    "Determinar los factores pronósticos, características clínicas y opciones de tratamiento del meduloblastoma y tumores dela glándula pineal."]
+  programa: ["Módulo 1. Gliomas",
+    "Módulo 2. Diagnóstico y tratamiento por tipo de glioma",
+    "Módulo 3. Meningiomas",
+    "Módulo 4. Otros tumores del SNC: Ependimoma, Meduloblastoma,Tumores de la glándula pineal"]
+  profesores: ["Dra. Carmen Balañá",
+    "Dr. Salvador Villà"]
+  direccion: ["Dra. Carmen Balañá"]
+  matricula: ["15 horas (2,7 créditos)", "37,5 horas (1,5 créditos)"]
+  imagen : snc.jpeg

@@ -1,0 +1,32 @@
+CÁNCER DE MAMA:
+  titulo: "CÁNCER DE MAMA"
+  subtitulo: ["Este curso de la realizado con el Grupo Español de Cáncer de Mama (GEICAM)"]
+  intro: "El Grupo Español de Investigación en Cáncer de Mama (GEICAM) junto con la Sociedad Española de Oncología Médica (SEOM) y e-oncología han desarrollado un curso virtual multidisciplinar de cáncer de mama..."
+  presentacion: ["El Grupo Español de Investigación en Cáncer de Mama (GEICAM) junto con la Sociedad Española de Oncología Médica (SEOM) y e-oncología han desarrollado un curso virtual multidisciplinar de cáncer de mama, en el que han colaborado los mejores especialistas del país en este campo."]
+  objetivos: ["Adquirir una visión multidisciplinar del abordaje del cáncer de mama, que abarca desde la epidemiología y prevención hasta los cuidados continuos, pasando obviamente por el diagnóstico y el tratamiento."]
+  competencias: ["Identificar escenarios clínicos comunes en el cáncer de mama.",
+    "Aprender a dar respuesta a los mismos, tanto en el planteamiento del diagnóstico inicial, estadificación como en la planificación de la propuesta terapéutica."]
+  programa: ["Módulo 1. Carcinogénesis y Carcinoma Ductal in Situ (CDIS)",
+    "Módulo 2. Tumor invasivo - Enfermedad locorregional",
+    "Módulo 3. Enfermedades diseminadas"]
+  profesores: ["Dra. Encarna Adrover",
+    "Dra. Marina Álvarez",
+    "Dra. Lourdes Calvo",
+    "Dra. Julia Camps",
+    "Dr. Jorge Contreras",
+    "Dra. Sofía Córdoba",
+    "Dr. Manuel de las Heras",
+    "Dr. Manuel Fraile",
+    "Dr. José Antonio López GªAsenjo",
+    "Dra. Mireia Margelí",
+    "Dra. Belén Merck",
+    "Dr. José Palacios",
+    "Dra. Marina Pollán",
+    "Dra. Beatriz Pérez",
+    "Dr. Juan Salinas",
+    "Dr. Melchor Sentís",
+    "Dra. Teresa Ramón y Cajal",
+    "Dr. Carlos Vázquez"]
+  direccion: ["Dr. Agustí Barnadas"]
+  matricula: ["60 horas (8,6 créditos)", "150 horas (6 créditos)"]
+  imagen: cancer-mama.jpeg

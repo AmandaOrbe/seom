@@ -1,0 +1,18 @@
+TUMORES DE ORIGEN DESCONOCIDO:
+  titulo: "TUMORES DE ORIGEN DESCONOCIDO"
+  subtitulo: []
+  intro: "El cáncer de primario desconocido es un grupo de enfermedades neoplásicas cuya característica común es que no es posible identificar tumor primario. Incluye una amplia variedad de manifestaciones clínicas..."
+  presentacion: ["El cáncer de primario desconocido es un grupo de enfermedades neoplásicas cuya característica común es que no es posible identificar tumor primario. Incluye una amplia variedad de manifestaciones clínicas con un pronóstico muy pobre en la mayor parte de los pacientes. La diseminación precoz, agresividad y la imprevisibilidad de patrón metastásico son características de estos tumores. Existen diversas técnicas de inmunohistoquímica, biología molecular, perfiles genéticos y radiodiagnóstico que pueden facilitar la labor al clínico a la hora de orientar el origen de los tumores o la actitud terapéutica. Con el aumento en el número de modalidades diagnósticas, los clínicos deben determinar cuánto esfuerzo o retraso diagnóstico son aceptables antes de realizar un diagnóstico de cáncer de origen desconocido. Se debe considerar también si un diagnóstico más preciso puede tener repercusión sobre el tipo de tratamiento a aplicar y sobre la supervivencia global del enfermo."]
+  objetivos: ["En este módulo se exponen las principales de características en cuanto a epidemiología, forma de presentación y pronóstico."]
+  competencias: []
+  programa: ["Módulo 1. Introducción.",
+    "Módulo 2. Biología del cáncer de origen desconocido.",
+    "Módulo 3. Características histológicas y moleculares.",
+    "Módulo 4. Presentación clínica y abordaje diagnóstico.",
+    "Módulo 5. Tratamiento del cáncer de origen desconocido según pronóstico y localización."]
+  profesores: ["Dr. Ramón Colomer",
+    "Dra. Berta Obispo Portero"]
+  direccion: ["Dr. Ramón Colomer"]
+  matricula: ["15 horas (1,6 créditos)",
+    "37,5 horas (1,5 créditos)"]
+  imagen : tumores-de-origen-desconocido.jpeg

@@ -1,0 +1,30 @@
+CÁNCER DE CABEZA Y CUELLO:
+  titulo: "CÁNCER DE CABEZA Y CUELLO"
+  subtitulo: []
+  intro: ["A lo largo del curso se abordan los aspectos más relevantes de los tumores de cabeza y cuello incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."]
+  presentacion: ["A lo largo del curso se abordan los aspectos más relevantes de los tumores de cabeza y cuello incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."]
+  objetivos: ["El curso proporciona a los alumnos las bases para aprender a diferenciar y tratar a los pacientes con tumores de cabeza y cuello."]
+  competencias: ["Conocer la historia natural de los carcinomas de cabeza y cuello (CCC), su epidemiología y factores de riesgo.",
+    "Reconocer las manifestaciones clínicas de los tumores de cabeza y cuello y realizar un diagnóstico locorregional y a distancia.",
+    "Conocer los diferentes factores pronósticos del CCC.",
+    "Conocer las modalidades de tratamiento locorregional del CCC.",
+    "Conocer las modalidades de tratamiento sistémico con quimioterapia y tratamientos biológicos del CCC.",
+    "Conocer el manejo de los tumores localmente avanzados resecables.",
+    "Conocer el papel de la preservación de órganos en el CCC.",
+    "Conocer el tratamiento de los tumores irresecables.",
+    "Conocer las diferentes modalidades de tratamiento por localizaciones.",
+    "Conocer el manejo y tratamiento de la enfermedad recurrente y metastásica."]
+  programa: ["Módulo 1. Definición, epidemiología y dimensión del problema. Factores de riesgo. Historia natural",
+    "Módulo 2. Manifestaciones clínicas y diagnóstico de los tumores de cabeza y cuello",
+    "Módulo 3. Clasificación por estadios",
+    "Módulo 4. Factores pronósticos",
+    "Módulo 5. Modalidades terapéuticas",
+    "Módulo 6. Tratamiento del CCC localmente avanzado resecable",
+    "Módulo 7. Tratamiento del CCC localmente avanzado irresecable",
+    "Módulo 8. Tratamiento por localizaciones",
+    "Módulo 9. Tratamiento de la enfermedad recurrente o metastásica (R/M CCC)"]
+  profesores: ["Dra. Elvira del Barco"]
+  direccion:  ["Dr. Juan Jesús Cruz"]
+  matricula: [ "25 horas (4,2 créditos)",
+    "62,5 horas (2,5 créditos)."]
+  imagen: cabeza.jpeg

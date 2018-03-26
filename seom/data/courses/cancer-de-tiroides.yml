@@ -1,0 +1,18 @@
+CÁNCER DE TIROIDES:
+  titulo: "CÁNCER DE TIROIDES"
+  subtitulo: []
+  intro: "A lo largo del curso se abordan los aspectos más relevantes sobre la epidemiología y factores de riesgo, tratamiento, y más aspectos relevantes del cáncer de Tiroides."
+  presentacion: ["A lo largo del curso se abordan los aspectos más relevantes sobre la epidemiología y factores de riesgo, tratamiento, y más aspectos relevantes del cáncer de Tiroides."]
+  objetivos: ["Adquirir capacidad crítica para la lectura biomédica e interpretar de forma adecuada los resultados sobre procedimientos de diagnóstico y otras pruebas, así como protocolos de estudio."]
+  competencias: []
+  programa: ["Epidemiología, Etiología y factores de riesgo",
+    "Manifestaciones clínicas",
+    "Evaluación de nódulos tiroideos y diagnóstico",
+    "Estadificación",
+    "Tratamiento"]
+  profesores: ["Dra. Lara Iglesias",
+    "Dra. María Blazquez"]
+  direccion: ["Dr. Lara Iglesias"]
+  matricula: ["5 horas (0,9 créditos)",
+    "12,5 horas (0,5 créditos)"]
+  imagen : cancer-de-tiroides.jpeg

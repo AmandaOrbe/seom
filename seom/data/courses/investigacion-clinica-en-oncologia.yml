@@ -1,0 +1,29 @@
+INVESTIGACIÓN CLÍNICA EN ONCOLOGÍA:
+  titulo: "INVESTIGACIÓN CLÍNICA EN ONCOLOGÍA"
+  subtitulo: []
+  intro: "Todo médico ha recibido formación y está familiarizado con la investigación clínica, como herramienta de progreso científico en Medicina. En este curso se hace un repaso de los aspectos básicos de dicha disciplina..."
+  presentacion: ["Todo médico ha recibido formación y está familiarizado con la investigación clínica, como herramienta de progreso científico en Medicina. En este curso se hace un repaso de los aspectos básicos de dicha disciplina, de aplicabilidad general, pero ya matizados en el entorno de la investigación con pacientes con cáncer."]
+  objetivos: ["Revisión y actualización de los principios fundamentales de la investigación terapéutica con pacientes.",
+    "Introducción al ensayo clínico."]
+  competencias: ["Entender los objetivos perseguidos por los Fase I.",
+    "Profundizar en el diseño, los objetivos y las particularidades de los ensayos en fase II y III y los estudios observacionales o postautorización.",
+    "Revisión reflexiva de la ética del ensayo clínico en el contexto de la ética científica. Consideraciones reales del respeto a los principios éticos en la práctica de los ensayos clínicos.",
+    "Diseño estadístico de ensayos clínicos",
+    "Escribir los aspectos legales, administrativos y de gestión de contratos de los Ensayos Clínicos (EC)",
+    "Definir las variables de los estudios clínicos"]
+  programa: ["Módulo 1. Principios básicos",
+    "Módulo 2. Tipos de ensayos clínicos",
+    "Módulo 3. Aspectos Éticos",
+    "Módulo 4. Bases estadísticas",
+    "Módulo 5. Aspectos legales y administrativos",
+    "Módulo 6. Interpretación y evaluación de los resultados"]
+  profesores: ["Dra. Ana Clopés",
+    "Dra. Carmen Cuadra",
+    "Dr. Margarita García Martin",
+    "Dra. Carmen Feliu",
+    "Dr. Valentín Navarro",
+    "Dr. Xavier Pérez",
+    "Dr. Ramón Salazar"]
+  direccion: ["Dr. Margarita García Martin"]
+  matricula: ["30 horas (5,7 créditos)", "37,5 horas (1,5 créditos)"]
+  imagen : investigacion-clinica.jpeg
