@@ -2,8 +2,12 @@
 <div class="navbarseom">
 
   <div class="navbar-left">
-    <%= image_tag "https://amandaorbe.github.io/seom/", class: "navbarxsimage"%>
-    <%= image_tag "https://amandaorbe.github.io/seom/", class: "navbarxsimage"%>
+    <% link_to 'https://amandaorbe.github.io/seom/' do %>
+        <%= image_tag 'mastere-oncologia.png', class: "navbarxsimage" %>
+      <% end %>
+      <% link_to 'https://amandaorbe.github.io/seom/' do %>
+        <%= image_tag 'certificacionseom.png', class: "navbarxsimage" %>
+      <% end %>
   </div>
   <div class="navbar-right">
     <button class="btn-navbar">Acceso </button>
