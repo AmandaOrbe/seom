@@ -31,15 +31,19 @@
   </script>
   </head>
   <body>
-    <%= partial "navbar" %>
-    <%= partial "navbarxs" %>
-    <div class="seom-container">
-      <div class="basic-template">
-        <%= yield %>
+
+      <%= partial "navbar" %>
+      <%= partial "navbarxs" %>
+      <div class="seom-container">
+        <div class="basic-template">
+          <%= yield %>
+        </div>
       </div>
-    </div>
-    <%= partial "footer" %>
+      <%= partial "footer" %>
+
     <%= partial "form" %>
+    <%= partial "aviso-legal" %>
+    <%= partial "requisitos-minimos" %>
 
   </body>
 </html>

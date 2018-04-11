@@ -32,6 +32,12 @@
     font-size: 14px;
     font-weight: 300;
   }
+  #aviso-legal:hover{
+    text-decoration: underline;
+  }
+  #requisitos-minimos:hover{
+    text-decoration: underline;
+  }
 }
 
 @media (max-width: 800px) {
