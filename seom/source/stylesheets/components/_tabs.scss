@@ -64,6 +64,13 @@
 
 .tab-text{
   margin-left: 14%;
+  ol{
+   margin-left: 14px;
+  }
+  li{
+    margin-left: -14%;
+    margin-bottom: 2px;
+  }
 }
 .centered{
   width:100%;
