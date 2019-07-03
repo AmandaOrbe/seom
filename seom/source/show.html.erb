@@ -55,7 +55,18 @@
     <ul><%data.courses[curso].first[1].direccion.each do |director|%>
         <li> <%= director%></li>
      <% end %>
+     </ul>
+
+    <% if data.courses[curso].first[1].codireccion %>
+      <p><b>Co-dirección</b></p>
+      <ul><%data.courses[curso].first[1].codireccion.each do |codirector|%>
+          <li> <%= codirector%></li>
+       <% end %>
+       </ul>
+    <% end %>
+
     </div>
+
 
 
   </div>

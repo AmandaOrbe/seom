@@ -8,11 +8,12 @@ EPIDEMIOLOGÍA Y PREVENCIÓN:
     "Utilizar los conceptos de factores de riesgo etiológicos en el manejo de los pacientes.",
     "Utilizar los conceptos de prevención primaria y secundaria.",
     "Ser capaz de evaluar la eficacia y el valor clínico de una técnica de cribado."]
-  programa: ["Módulo 1. Misión del estudio epidemiológico",
-    "Módulo 2. Concepto de riesgo",
-    "Módulo 3. Prevención secundaria del cáncer"]
-  profesores: ["Dra. Sílvia de Sanjosé"]
-  direccion: ["Dra. Sílvia de Sanjosé"]
-  matricula: ["10 horas (1,8 créditos)",
+  programa: ["Módulo 1. Estudios Epidemiológicos",
+    "Módulo 2. Prevención del Cáncer"]
+  profesores: ["Dra. Sílvia de Sanjosé",
+    "Dra. Bea Serrano"]
+  direccion: ["Dra. Sílvia de Sanjosé",
+    "Dra. Bea Serrano"]
+  matricula: ["10 horas (1,6 créditos)",
     " 25 horas (1 créditos)."]
   imagen : epidemiologia-y-prevencion.jpeg

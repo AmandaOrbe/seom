@@ -15,8 +15,15 @@ FARMACOLOGÍA CLÍNICA ONCOLÓGICA:
     "Módulo 4. Inmunoterapia y modificaciones de la respuesta biológica.",
     "Módulo 5. Inhibidores de tirosina quinasa.",
     "Módulo 6. Anticuerpos monoclonales."]
-  profesores: ["Dr. Antonio González"]
-  direccion: ["Dr. Antonio González"]
+  profesores: ["Dra. Esther Brehcist",
+    "Dra. Aitana Calvo",
+    "Dra. Susana de la Cruz",
+    "Dra. Sara Encinas",
+    "Dra. Concha Fernández",
+    "Dr. Antonio González",
+    "Dr. Raúl Márquez"]
+  direccion: ["Dra. Aitana Calvo"]
+  codireccion: ["Dr. Antonio González"]
   matricula: ["15 horas (2,6 créditos)",
   "37,5 horas (1,5 créditos"]
   imagen : farmacologia-clinica-oncologica.jpeg
