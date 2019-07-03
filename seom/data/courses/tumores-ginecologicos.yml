@@ -15,8 +15,11 @@ CÁNCER GINECOLÓGICO:
   programa: ["Módulo 1. Cáncer de cérvix",
     "Módulo 2. Cáncer de endometrio",
     "Módulo 3. Cáncer de ovario"]
-  profesores: ["Dra. Belén Ojeda",
-    "Dra. Cristina Martin Lorente"]
-  direccion: ["Dra. Belén Ojeda"]
+  profesores: ["Dr. Alejandro Gallego",
+    "Dra. Cristina Martin Lorente",
+    "Dra. Belén Ojeda",
+    "Dr. Andrés Redondo"]
+  direccion: ["Dr. Andrés Redondo"]
+  codireccion: ["Dra. Belén Ojeda"]
   matricula: ["30 horas (5,2 créditos)", "75 horas (3 créditos)."]
   imagen: tumores-ginecologicos.jpeg

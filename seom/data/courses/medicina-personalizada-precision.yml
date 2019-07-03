@@ -1,0 +1,25 @@
+MEDICINA PERSONALIZADA DE PRECISIÓN :
+  titulo: "MEDICINA PERSONALIZADA DE PRECISIÓN "
+  subtitulo: []
+  intro: "La Medicina de Precisión está transformando la atención a los pacientes con cáncer, tal como ha destacado la Sociedad Española de Oncología Médica (SEOM) junto con ..."
+  presentacion: ["La Medicina de Precisión está transformando la atención a los pacientes con cáncer, tal como ha destacado la Sociedad Española de Oncología Médica (SEOM) junto con otras sociedades científicas españolas, y proporciona oportunidades extraordinarias para mejorar la salud pública y disminuir los costes de los sistemas de salud.  Recientemente, el Senado español ha propuesto la necesidad de crear una estrategia nacional de Medicina de Precisión que, previsiblemente, se aplicará en los próximos años.", "En el Módulo de Medicina Personalizada de Precisión se presentan, de una forma estructurada por primera vez en un curso universitario, conceptos generales de tratamiento dirigido, inmunoterapia y análisis bioinformático, y se presentan las aplicaciones en tumores sólidos y también las indicaciones de tratamientos transversales o independientes del tipo tumoral, llamadas también tumor-agnósticas."]
+  objetivos: ["•  El objetivo de este curso es presentar los conceptos generales de la Medicina Personalizada de precisión y dar a conocer la importancia de la misma en la atención de los pacientes con cáncer. "]
+  competencias: ["Adquirir criterios científicos para seleccionar las terapias dirigidas y las dianas de interés para el paciente.",
+    "Conocer cuál es el mecanismo de acción de las terapias dirigidas: angiogénesis y microambiente tumoral. ",
+    "Identificar los diferentes tipos de terapias dirigidas contra el cáncer disponibles actualmente, incluido la inmunoterapia. ",
+    "Entender la bioinformática como área clave en el éxito de un estudio genético. ",
+    "Interpretar los resultados de un estudio de secuenciación masiva según la patología del paciente. ",
+    "Conocer las diferentes terapias dirigidas en tumores sólidos."]
+  programa: ["Módulo 1. Introducción a la Medicina Personalizada de Precisión en Cáncer",
+    "Módulo 2. Conceptos generales",
+    "Módulo 3. Medicina Personalizada en tumores sólidos"]
+  profesores: ["Dr. Ramón Colomer ",
+    "Dra. Berta Hernández Marín",
+    "Dra. Rebeca Mondéjar",
+    "Dra. Nuria Romero-Laorden"]
+  direccion: ["Dr. Ramón Colomer"]
+  matricula: ["Solicitada acreditación",
+    "50 horas (2 créditos)"]
+  imagen: medicina-precision.jpg
+
+

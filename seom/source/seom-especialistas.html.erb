@@ -15,7 +15,7 @@ El itinerario formativo de la Certificación SEOM consiste en la actualización 
   <br>
   <div class="cards">
     <div class="row">
-      <%data.courses.each do |curso|%>
+      <%data.courses.sort.each do |curso|%>
         <div class="col-xs-12 col-sm-6  col-md-4">
           <div class="card-space">
             <% link_to "/#{curso[0]}.html" do %>

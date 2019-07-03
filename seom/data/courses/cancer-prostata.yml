@@ -11,21 +11,13 @@ CÁNCER DE PRÓSTATA:
     "Conocer los tratamientos y cuidados del paciente en casos de tumor con metástasis i enfermedad avanzada y establecer las indicaciones de la hormonoterapia para el control de la enfermedad avanzada.",
     "Conocer la historia natural, como diagnosticar y pautas de tratamiento en los tumores hormonoresistentes.",
     "Tener información general de otros tumores prostáticos de presentaciones poco frecuentes como por ejemplo los tumores neuroendocrinos."]
-  programa: ["Módulo 1. Epidemiología, screening, prevención e historia natural",
-    "Módulo 2. Tumor confinado al órgano",
-    "Módulo 3. Tumor extra prostático no metastásico",
-    "Módulo 4. Seguimiento y recidiva bioquímica",
-    "Módulo 5. Tumor metastásico y enfermedad avanzada",
-    "Módulo 6. Tumor hormono-resistente",
-    "Módulo 7. Tumores y presentaciones poco frecuentes"]
-  profesores: ["Dr. Ferran Algaba",
-    "Dr. Andrés García Palomo",
-    "Dr. Josep Ramón Germà",
-    "Dr. Antonio González",
-    "Dr. Antonio Lorente",
-    "Dr. Rafael Medina",
-    "Dr. Xavier Maldonado",
-    "Dr. Almudena Zapatero"]
-  direccion: ["Dr. Josep Ramón Germà"]
-  matricula: ["60 horas (8,6 créditos)", "150 horas (6 créditos)"]
+  programa: ["Módulo 1. Epidemiología del cáncer de próstata",
+    "Módulo 2. Cáncer de próstata localizado",
+    "Módulo 3. Cáncer de próstata metastásico hormonosensible",
+    "Módulo 4. Cáncer de próstata resistente a la castración",
+    "Módulo 5. Cáncer de próstata neuroendocrino"]
+  profesores: ["Dra. Nuria Romero-Laorden"]
+  direccion: ["Dra. Nuria Romero–Laorden"]
+  codireccion: ["Dr. Josep Ramon Germà "]
+  matricula: ["Solicitada acreditación", "100 horas (4 créditos)"]
   imagen: cancer-de-prostata.jpeg
