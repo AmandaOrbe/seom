@@ -165,4 +165,14 @@
 
 }
 
+.logos{
+  // background-color: salmon;
+  max-width: 95%;
+  height: 120px;
+  display: flex;
+  justify-content: space-between;
 
+  &__instance{
+    height: 60px;
+  }
+}
