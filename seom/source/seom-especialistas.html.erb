@@ -15,20 +15,47 @@ El itinerario formativo de la Certificación SEOM consiste en la actualización 
   <br>
   <div class="cards">
     <div class="row">
-      <%data.courses.sort.each do |curso|%>
+      <%cursos_ordenados = ['biologiamolecular',
+        'epidemiologia-y-prevencion',
+        'estadisticas-oncologos',
+        'farmacologia-clinica-oncologica',
+        'consejo-genetico-en-cancer',
+        'medicina-personalizada-precision',
+        'inmunooncologia',
+        'investigacion-clinica-en-oncologia',
+        'cancer-de-pulmon',
+        'cancer-gastrointestinal',
+        'cancer-de-mama',
+        'tumores-ginecologicos',
+        'cancer-prostata',
+        'tumores-genito-urinarios',
+        'cabeza-y-cuello',
+        'cancer-de-tiroides',
+        'tumores-neuroendocrinos',
+        'sarcoma',
+        'linfomas-y-mieloma',
+        'melanoma',
+        'tumores-snc',
+        'tumores-de-origen-desconocido',
+        'cuidados-continuos',
+        'etv',
+        'urgencias-en-oncologia',
+        'habilidades-comunicativas'] %>
+      <%cursos_ordenados.each do |curso_ordenado|%>
         <div class="col-xs-12 col-sm-6  col-md-4">
           <div class="card-space">
-            <% link_to "/#{curso[0]}.html" do %>
+
+            <% link_to "/#{data.courses[curso_ordenado].first[1].slug}.html" do %>
               <div class="curso-card document-card">
                 <div class="imagen-card-frame">
-                  <%= image_tag curso[1].first[1].imagen,  class: "imagen-card" %>
+                  <%= image_tag data.courses[curso_ordenado].first[1].imagen,  class: "imagen-card" %>
                 </div>
                 <div class="curso-title">
-                  <h3 class=" lista titulos-lista"><%= curso[1].first[1].titulo%></h3>
+                  <h3 class=" lista titulos-lista"><%= data.courses[curso_ordenado].first[1].titulo%></h3>
                 </div>
                 <div class="curso-text">
 
-                  <p><%=curso[1].first[1].intro%></p>
+                  <p><%=data.courses[curso_ordenado].first[1].intro%></p>
                 </div>
               </div>
             <% end %>

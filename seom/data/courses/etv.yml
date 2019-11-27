@@ -1,5 +1,6 @@
 ENFERMEDAD TROMBOÉMBOLICA VENOSA:
   titulo: "ENFERMEDAD TROMBOÉMBOLICA VENOSA"
+  slug: etv
   subtitulo: []
   intro: "Los pacientes con cáncer presentan un estado de hipercoagulabilidad adquirido que va desde anormalidades asintomáticas en tests analíticos de coagulación hasta tromboembolismos mortales."
   presentacion: ["Los pacientes con cáncer presentan un estado de hipercoagulabilidad adquirido que va desde anormalidades asintomáticas en tests analíticos de coagulación hasta tromboembolismos mortales. Más del 11% de los pacientes oncológicos sufrirán un evento tromboembólico clínico, y hasta el 20% lo presentarán a lo largo de la enfermedad",

@@ -1,5 +1,6 @@
 SARCOMA:
   titulo: "SARCOMA"
+  slug: sarcoma
   subtitulo: []
   intro: "A lo largo del curso se abordan los aspectos más relevantes de los sarcomas incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."
   presentacion: ["A lo largo del curso se abordan los aspectos más relevantes de los sarcomas incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."]

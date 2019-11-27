@@ -1,5 +1,6 @@
 INMUNOONCOLOGÍA:
   titulo: "INMUNOONCOLOGÍA"
+  slug: inmunooncologia
   subtitulo: []
   intro: "El sistema inmune (SI) es una red que incluye un conjunto de órganos, tejidos y muchos tipos celulares diferentes (que se encuentran tanto en circulación como residiendo en tejidos), y moléculas solubles de ..."
   presentacion: ["El sistema inmune (SI) es una red que incluye un conjunto de órganos, tejidos y muchos tipos celulares diferentes (que se encuentran tanto en circulación como residiendo en tejidos), y moléculas solubles de comunicación (citocinas, quimiocinas) cuya función principal es el reconocimiento de lo propio y el ataque a lo no propio. Esta red, caracterizada por su gran complejidad cuenta con innumerables, e incluso redundantes, mecanismos de control de su activación e inhibición para lograr la homeostasis y cuyo éxito radica en su elaborada y dinámica comunicación.",
