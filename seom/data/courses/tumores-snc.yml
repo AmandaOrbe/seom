@@ -15,11 +15,7 @@ CÁNCER DEL SISTEMA NERVIOSO CENTRAL:
     "Módulo 2. Gliomas Anaplásicos ",
     "Módulo 3. Gliobastoma",
     "Módulo 4. Meduloblastoma"]
-  profesores: ["Dr. José Antonio Blanco ",
-    "Dr. Roberto García Leal ",
-    "Dr. Juan Adan Guzmán de Villoria",
-    "Dr. Ivan Márquez",
-    "Dra. Emma Sola"]
+  profesores: ["Dr. Ivan Márquez"]
   direccion: ["Dr. Ivan Márquez"]
   codireccion: ["Dra. Carmen Balañá"]
   matricula: ["15 horas estimadas", "37,5 horas (1,5 créditos)"]
