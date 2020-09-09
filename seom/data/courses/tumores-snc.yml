@@ -22,5 +22,7 @@ CÁNCER DEL SISTEMA NERVIOSO CENTRAL:
     "Dra. Emma Sola"]
   direccion: ["Dr. Ivan Márquez"]
   codireccion: ["Dra. Carmen Balañá"]
-  matricula: ["15 horas", "37,5 horas (1,5 créditos)"]
+  matricula: ["15 horas estimadas", "37,5 horas (1,5 créditos)"]
   imagen : snc.jpeg
+  calendario: '16/09/2020 a 15/09/2021'
+  tiempo: '4 semanas' 

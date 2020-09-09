@@ -90,8 +90,13 @@
     <%= link_to "Inscríbete", "https://seom.org/preinscripcion-master-seom" , class: " btn-red centered" %>
     <br>
     <br>
-    <p><b>Duración FMC: </b><%=data.courses[curso].first[1].matricula[0]%></p>
+    <p><b>Duración FMC: </b><%=data.courses[curso].first[1].matricula[0]%> </p>
     <p><b>Duración y créditos ECTS: </b><%=data.courses[curso].first[1].matricula[1]%></p>
+    <p></p>
+    <% if data.courses[curso].first[1].calendario %>
+    <p><b>Calendario:</b><%=data.courses[curso].first[1].calendario%></p>
+    <p><b>Tiempo para completar el curso: </b><%=data.courses[curso].first[1].tiempo%></p>
+    <% end %>
     <br>
   </div>
   <br>

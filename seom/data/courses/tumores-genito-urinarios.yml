@@ -15,6 +15,8 @@ CÁNCER GENITOURINARIO:
   profesores: ["Dr. Joaquim Bellmunt",
     "Dr. Francesc Pons"]
   direccion: ["Dr. Joaquim Bellmunt"]
-  matricula: ["10 horas",
+  matricula: ["10 horas estimadas",
     "25 horas (1 créditos)."]
   imagen: tumores-genito-urinarios.jpeg
+  calendario: '16/09/2020 a 15/09/2021'
+  tiempo: '4 semanas' 

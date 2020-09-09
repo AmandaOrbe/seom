@@ -1,6 +1,6 @@
 CÁNCER DE CABEZA Y CUELLO:
   titulo: "CÁNCER DE CABEZA Y CUELLO"
-  slugL: cabeza-y-cuello
+  slug: cabeza-y-cuello
   subtitulo: []
   intro: "A lo largo del curso se abordan los aspectos más relevantes de los tumores de cabeza y cuello incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."
   presentacion: ["A lo largo del curso se abordan los aspectos más relevantes de los tumores de cabeza y cuello incluyendo: epidemiología, factores de riesgo, diagnóstico, estadificación y tratamiento."]
@@ -26,6 +26,10 @@ CÁNCER DE CABEZA Y CUELLO:
     "Módulo 9. Tratamiento de la enfermedad recurrente o metastásica (R/M CCC)"]
   profesores: ["Dra. Elvira del Barco"]
   direccion:  ["Dr. Juan Jesús Cruz"]
-  matricula: [ "25 horas",
+  matricula: [ "25 horas estimadas",
     "62,5 horas (2,5 créditos)."]
   imagen: cabeza.jpeg
+  calendario: '16/09/2020 a 15/09/2021'
+  tiempo: 8 semanas 
+
+

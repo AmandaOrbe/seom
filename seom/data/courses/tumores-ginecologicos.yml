@@ -22,5 +22,7 @@ CÁNCER GINECOLÓGICO:
     "Dr. Andrés Redondo"]
   direccion: ["Dr. Andrés Redondo"]
   codireccion: ["Dra. Belén Ojeda"]
-  matricula: ["30 horas", "75 horas (3 créditos)."]
+  matricula: ["30 horas estimadas", "75 horas (3 créditos)."]
   imagen: tumores-ginecologicos.jpeg
+  calendario: '16/09/2020 a 15/09/2021'
+  tiempo: '4 semanas' 
