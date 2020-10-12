@@ -1,5 +1,5 @@
 URGENCIAS EN ONCOLOGÍA:
-  titulo: "URGENCIAS EN ONCOLOGÍA"
+  titulo: "URGENCIAS ONCOLÓGICAS"
   slug: urgencias-en-oncologia
   subtitulo: []
   intro: "e-oncología y la Sociedad Española de Oncología Médica (SEOM) han desarrollado un curso virtual multidisciplinar de urgencias oncológicas, en el que han colaborado los mejores especialistas del país..."
@@ -15,8 +15,10 @@ URGENCIAS EN ONCOLOGÍA:
     "Módulo 5. Urgencias digestivas",
     "Módulo 6. Tratamiento práctico del paciente con neutropenia febril",
     "Módulo 7. Otras complicaciones del tratamiento antineoplásico"]
-  profesores: ["Dr. César Rodríguez Sánchez"]
+  profesores: ["Dr. César Rodríguez Sánchez", "Dra. Núria Romero Laorden"]
   direccion: ["Dr. César Rodríguez Sánchez"]
-  matricula: ["15 horas estimadas",
+  matricula: ["12 horas estimadas",
   "37,5 horas (1,5 créditos)"]
   imagen : urgencias-en-oncologia.jpeg
+  calendario: '12/11/2020 a 11/11/2021'
+  tiempo: '4 semanas' 

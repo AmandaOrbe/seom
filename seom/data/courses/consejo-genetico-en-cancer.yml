@@ -18,9 +18,13 @@ CONSEJO GENÉTICO EN CÁNCER:
     "Dra. Begoña Graña Suárez",
     "Dr. Enrique Lastra",
     "Dra. Conxi Lázaro",
-    "Dra. Teresa Ramón y Cajal"]
+     "Dra. Berta Obispo",
+    "Dra. Teresa Ramón y Cajal"
+   ]
   direccion: ["Dr. Álex Teulé"]
   matricula: ["25 horas estimadas",
     "62,5 horas (2,5 créditos)"]
   imagen : consejo-genetico-en-cancer.jpeg
+  calendario: '12/11/2020 a 11/11/2021'
+  tiempo: '7 semanas' 
 

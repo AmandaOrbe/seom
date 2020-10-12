@@ -16,8 +16,10 @@ MELANOMA:
     "Módulo 5. Adyuvancia en melanoma de alto riesgo.",
     "Módulo 6. Tratamiento quirúrgico de melanoma metastásico.",
     "Módulo 7. Tratamiento médico de melanoma metastásico."]
-  profesores: ["Dr. Salvador Martín Algarra"]
+  profesores: ["Dr. Salvador Martín Algarra", Dra. Patricia Martín Romano]
   direccion: ["Dr. Salvador Martín Algarra"]
   matricula: ["15 horas estimadas",
     "15 horas (2,8 créditos)"]
   imagen : melanoma.jpeg
+  calendario: 12/11/2020 a 11/11/2021
+  tiempo: '6 semanas '
