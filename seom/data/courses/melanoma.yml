@@ -9,13 +9,10 @@ MELANOMA:
     "Evaluar y conocer los diferentes 'pathways' biológicos del melanoma que pueden tener importancia en el tratamiento.",
     "Poder abordar el correcto diagnóstico y estadiaje de los pacientes con melanoma.",
     "Conocer las principales opciones terapéuticas para el manejo de los pacientes con melanoma de lato riesgo y metastásico."]
-  programa: ["Módulo 1. Epidemiología y carcinogénesis de melanoma.",
-    "Módulo 2. Diagnostico histopatológico y molecular de melanoma, RAF/MEK/ERK, C-KIT.",
-    "Módulo 3. Diagnostico dermatológico y screening de melanoma.",
-    "Módulo 4. Tratamiento de melanoma localizado. Estadiaje. Ganglio centinela.",
-    "Módulo 5. Adyuvancia en melanoma de alto riesgo.",
-    "Módulo 6. Tratamiento quirúrgico de melanoma metastásico.",
-    "Módulo 7. Tratamiento médico de melanoma metastásico."]
+  programa: ["Módulo 1. Epidemiología, Factores de riesgo, Histopatologia y Biologia Molecular",
+    "Módulo 2. Diagnóstico, tratamiento y seguimiento del melanoma localizado y de alto riesgo",
+    "Módulo 3. Tratamiento quirúrgico, radioterápico y médico del melanoma metastásico",
+    "Módulo 4. Melanoma extracutáneo"]
   profesores: ["Dr. Salvador Martín Algarra", Dra. Patricia Martín Romano]
   direccion: ["Dr. Salvador Martín Algarra"]
   matricula: ["15 horas estimadas",

@@ -8,12 +8,11 @@ CÁNCER GASTROINTESTINAL:
   competencias: ["Conocer la epidemiología del cáncer de origen en el aparato digestivo, su posible prevención, las bases sobre biología molecular, cuál es el óptimo diagnóstico y la estadificación según las guías y los consensos más recientes.",
     "Actualizarse sobre las posibilidades terapéuticas del cáncer digestivo en todos sus estadios, sus opciones de tratamiento más destacadas y sus indicaciones concretas para la práctica clínica."]
   programa: ["Módulo 1. Cáncer colorrectal",
-    "Módulo 2. Cáncer de ano",
-    "Módulo 3. Cáncer de páncreas",
-    "Módulo 4. Cáncer gástrico",
-    "Módulo 5. Cáncer de esófago",
-    "Módulo 6. Cáncer de hígado",
-    "Módulo 7. Tumores neuroendocrinos"]
+    "Módulo 2. Cáncer de páncreas",
+    "Módulo 3. Cáncer gástrico",
+    "Módulo 4. Cáncer de esófago",
+    "Módulo 5. Cáncer de hígado",
+    "Módulo 6. Tumores neuroendocrinos"]
   profesores: ["Dr. Álex Teulé"]
   direccion: ["Dr. Enrique Aranda", "Dr. Ramón Salazar"]
   matricula: ["40 horas estimadas",
