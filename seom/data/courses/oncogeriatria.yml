@@ -1,0 +1,24 @@
+ONCOGERIATRÍA:
+  titulo: "ONCOGERIATRÍA"
+  slug: oncogeriatria
+  subtitulo: []
+  intro: "Este curso pretende actualizar la evidencia científica existente en distintas nociones básicas de la Oncogeriatría y aportar a los profesionales que atienden a individuos de edad avanzada ..."
+  presentacion: ["Este curso pretende actualizar la evidencia científica existente en distintas nociones básicas de la Oncogeriatría y aportar a los profesionales que atienden a individuos de edad avanzada afectos de cáncer distintas herramientas y medidas a tener en cuenta durante la valoración, toma de decisiones y su tratamiento."]
+  objetivos: ["Actualizar la evidencia científica existente en distintas nociones básicas de la Oncogeriatría y aportar a los profesionales que atienden a individuos de edad avanzada afectos de cáncer distintas herramientas y medidas a tener en cuenta durante la valoración, toma de decisiones y su tratamiento."]
+  competencias: ["Describir la epidemiología y el impacto del cáncer en la población de edad avanzada.",
+    "Identificar las características específicas del paciente de edad avanzada con cáncer asociadas al proceso de envejecimiento y el concepto de fragilidad.",
+    "Abordar de forma integral al paciente mayor: la valoración Geriátrica Integral (VGI) y herramientas de cribado.",
+    "Reconocer las preguntas básicas en el proceso de toma de decisiones terapéuticas en Oncogeriatría.",
+    "Identificar las opciones terapéuticas y los nuevos tratamientos disponibles y reconocer su eficacia en población anciana con cáncer.",
+    "Detallar los efectos secundarios y las toxicidades más frecuentemente asociadas a los diferentes tratamientos antitumorales."]
+  programa: [ "MÓDULO 1. Valoración del anciano con cáncer", "MÓDULO 2. Quimioterapia y nuevos tratamientos en oncogeriatría. Eficacia, toxicidad y manejo"]   
+  profesores: ["Dr. Jaime Feliu",
+    "Dra. Regina Gironés Sarrió",
+    "Dra. Maria José Molina-Garrido",
+    "Dra. María del Carmen Soriano Rodríguez"]
+  direccion:  ["Dra. Maria José Molina-Garrido"]
+  matricula: [ "6 horas estimadas",
+    "10 horas (0,5 créditos)"]
+  imagen: oncogeriatria.jpg
+
+

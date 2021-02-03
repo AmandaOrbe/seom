@@ -4,6 +4,7 @@
   white-space: normal;
 }
 
+
 // lado izquierdo
 .show-left,  .show-down{
   .title-show{
@@ -64,7 +65,7 @@
 // lado derecho
 
 #show-right{
- background-color: white;
+ // background-color: white;
  p{
   margin: 25px;
   text-align: left;
@@ -82,7 +83,17 @@
   width: 270px;
   height: auto;
 }
-
+.logo-frame{
+  overflow:hidden;
+  max-height: 90px;
+  width: 270px;
+  margin: 30px auto;
+  border-radius: 4px;
+}
+.logo{
+  max-width: 50%;
+  height: auto;
+}
 
 
 
@@ -152,7 +163,7 @@
     flex: 0 0 300px;
     width: 300px;
     margin-left: 20px;
-    height: 490px;
+    //height: 490px;
     position: sticky !important;
     top: 0;
 
