@@ -24,27 +24,36 @@
      <p><%= present%></p>
      <% end %>
     </div>
+
+
     <div class="caja reducido">
     <h5>OBJETIVOS Y COMPETENCIAS</h5>
     <br>
-    <h5>Objetivos</h5>
-    <p><%data.courses[curso].first[1].objetivos.each do |objetivo|%>
-     <p><%= objetivo%></p>
-     <% end %>%>
-    <h5>Competencias</h5>
-    <ul><%data.courses[curso].first[1].competencias.each do |competencia|%>
-    <li> <%= competencia%></li>
-     <% end %>
+    <% if data.courses[curso].first[1].objetivos[0] %>
+      <h5>Objetivos</h5>
+      <p><%data.courses[curso].first[1].objetivos.each do |objetivo|%>
+       <p><%= objetivo%></p>
+       <% end %>
+    <% end %>
+    <% if data.courses[curso].first[1].competencias[1] %>
+      <h5>Competencias</h5>
+      <ul><%data.courses[curso].first[1].competencias.each do |competencia|%>
+        <li> <%= competencia%></li>
+      <% end %>
+    <% end %>
     </ul>
     <br>
     </div>
+
+
     <div class="caja reducido">
      <h5>PROGRAMA</h5>
       <ul><%data.courses[curso].first[1].programa.each do |modulo|%>
-    <li> <%= modulo%></li>
-     <% end %>
-    </ul>
+        <li> <%= modulo%></li>
+      <% end %>
+      </ul>
     </div>
+
 
     <div class="caja reducido">
     <h5>DIRECCIÓN Y PROFESORES</h5>
@@ -96,6 +105,14 @@
     <% if data.courses[curso].first[1].calendario %>
     <p><b>Calendario:</b><%=data.courses[curso].first[1].calendario%></p>
     <p><b>Tiempo para completar el curso: </b><%=data.courses[curso].first[1].tiempo%></p>
+    <% end %>
+
+
+    <% if data.courses[curso].first[1].logo %>
+      <p><b>Colabora:</b></p>
+      <div class="logo-frame">
+        <%= image_tag data.courses[curso].first[1].logo,  class: "logo" %>
+      </div>
     <% end %>
     <br>
   </div>
