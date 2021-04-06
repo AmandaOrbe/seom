@@ -8,7 +8,11 @@ TUMORES NEUROENDOCRINOS:
     "Conocer lo aspectos más importantes en el diagnóstico y tratamiento de estos pacientes.",
     "Conocer la aplicación de los nuevos tratamientos y ensayos clínicos en curso."]
   competencias: []
-  programa: []
+  programa: ["Módulo 1. Introducción y Objetivos",
+    "Módulo 2. Epidemiologia y Factores de Riesgo",
+    "Módulo 3. Biología Molecular y Clasificación",
+    "Módulo 4. Clínica, Diagnóstico y Factores Pronósticos",
+    "Módulo 5. Tratamientos y algoritmos terapéuticos"]
   profesores: ["Dr. Alberto Carmona"]
   direccion: ["Dr. Alberto Carmona"]
   matricula: ["15 horas estimadas",
