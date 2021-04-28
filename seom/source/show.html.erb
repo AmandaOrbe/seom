@@ -57,17 +57,47 @@
 
     <div class="caja reducido">
     <h5>DIRECCIÓN Y PROFESORES</h5>
-    <p><b>Profesores</b></p>
-       <ul><%data.courses[curso].first[1].profesores.each do |profesor|%>
-        <li> <%= profesor%></li>
-     <% end %>
-    </ul>
 
-    <p><b>Dirección</b></p>
-    <ul><%data.courses[curso].first[1].direccion.each do |director|%>
-        <li> <%= director%></li>
+    <% if data.courses[curso].first[1].profesores %>
+      <p><b>Profesores</b></p>
+         <ul><%data.courses[curso].first[1].profesores.each do |profesor|%>
+          <li> <%= profesor%></li>
+       <% end %>
+      </ul>
+    <% end %>  
+
+    <% if data.courses[curso].first[1].direccion %>
+      <p><b>Dirección</b></p>
+      <ul><%data.courses[curso].first[1].direccion.each do |director|%>
+          <li> <%= director%></li>
+       <% end %>
+       </ul>
+     <% end %>  
+
+    <% if data.courses[curso].first[1].autoria %>
+      <p><b>Dirección y autoría</b></p>
+      <ul><%data.courses[curso].first[1].autoria.each do |director|%>
+          <li> <%= director%></li>
+       <% end %>
+       </ul>
+    <% end %>
+
+    <% if data.courses[curso].first[1].revision %>
+      <p><b>Revisión <%= data.courses[curso].first[1].revision_fecha%></b></p>
+      <ul><%data.courses[curso].first[1].revision.each do |revision|%>
+          <li> <%= revision%></li>
+       <% end %>
+       </ul>
      <% end %>
-     </ul>
+
+
+     <% if data.courses[curso].first[1].tutoria %>
+      <p><b>Tutoría</b></p>
+      <ul><%data.courses[curso].first[1].tutoria.each do |tutor|%>
+          <li> <%= tutor%></li>
+       <% end %>
+       </ul>
+     <% end %>
 
     <% if data.courses[curso].first[1].codireccion %>
       <p><b>Co-dirección</b></p>
@@ -151,17 +181,47 @@
     </div>
     <div class="caja reducido">
     <h5>DIRECCIÓN Y PROFESORES</h5>
-    <p><b>Profesores</b></p>
-       <ul><%data.courses[curso].first[1].profesores.each do |profesor|%>
-        <li> <%= profesor%></li>
-     <% end %>
-    </ul>
 
-    <p><b>Dirección</b></p>
-    <ul><%data.courses[curso].first[1].direccion.each do |director|%>
-        <li> <%= director%></li>
+    <% if data.courses[curso].first[1].profesores %>
+
+      <p><b>Profesores</b></p>
+         <ul><%data.courses[curso].first[1].profesores.each do |profesor|%>
+          <li> <%= profesor%></li>
+       <% end %>
+      </ul>
+    <% end %>
+
+    <% if data.courses[curso].first[1].direccion %>
+      <p><b>Dirección</b></p>
+      <ul><%data.courses[curso].first[1].direccion.each do |director|%>
+          <li> <%= director%></li>
+       <% end %>
+       </ul>
      <% end %>
-    </div>
+
+     <% if data.courses[curso].first[1].autoria %>
+      <p><b>Dirección y autoría</b></p>
+      <ul><%data.courses[curso].first[1].autoria.each do |director|%>
+          <li> <%= director%></li>
+       <% end %>
+       </ul>
+     <% end %>
+
+     <% if data.courses[curso].first[1].revision %>
+      <p><b>Revisión <%= data.courses[curso].first[1].revision_fecha%></b></p>
+      <ul><%data.courses[curso].first[1].revision.each do |revision|%>
+          <li> <%= revision%></li>
+       <% end %>
+       </ul>
+     <% end %>
+
+     <% if data.courses[curso].first[1].tutoria %>
+      <p><b>Tutoría</b></p>
+      <ul><%data.courses[curso].first[1].tutoria.each do |tutor|%>
+          <li> <%= tutor%></li>
+       <% end %>
+       </ul>
+     <% end %>
 
   </div>
 </div>
