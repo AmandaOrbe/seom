@@ -22,9 +22,12 @@ SARCOMA:
   programa: ["Módulo 1. Sarcomas de partes blandas.",
     "Módulo 2. Tumores del estroma gastrointestinal.",
     "Módulo 3. Tumores óseos."]
-  profesores: ["Dr. Francisco García del Muro"]
-  direccion: ["Dr. Francisco García del Muro"]
+  autoria: ["Dr. Francisco García del Muro"]
+  revision: [" Dra. Rosa Álvarez "]
+  revision_fecha: 2020  
+  tutoria: [" Dra. Rebeca Mondéjar "]
   matricula: ["20 horas estimadas",
     "50 horas (2 créditos)"]
   imagen : sarcoma.jpeg
   logo: PharmaMar.png
+  calendario: "24/05/2021 a 23/05/2022"
