@@ -13,14 +13,15 @@ CÁNCER DE PRÓSTATA:
     "Conocer la historia natural, como diagnosticar y pautas de tratamiento en los tumores hormonoresistentes.",
     "Tener información general de otros tumores prostáticos de presentaciones poco frecuentes como por ejemplo los tumores neuroendocrinos."]
   programa: ["Módulo 1. Epidemiología del cáncer de próstata",
-    "Módulo 2. Cáncer de próstata localizado",
-    "Módulo 3. Cáncer de próstata metastásico hormonosensible",
-    "Módulo 4. Cáncer de próstata resistente a la castración",
-    "Módulo 5. Cáncer de próstata neuroendocrino"]
+    "Módulo 2. Conceptos básicos",
+    "Módulo 3. Cáncer de próstata localizado",
+    "Módulo 4. Cáncer de próstata metastásico hormonosensible",
+    "Módulo 5. Cáncer de próstata resistente a la castración",
+    "Módulo 6. Cáncer de próstata neuroendocrino"]
   profesores: ["Dra. Nuria Romero-Laorden"]
   direccion: ["Dra. Nuria Romero–Laorden"]
   codireccion: ["Dr. Josep Ramon Germà "]
-  matricula: ["Solicitada acreditación", "100 horas (4 créditos)"]
+  matricula: ["20 horas estimadas"]
   imagen: cancer-de-prostata.jpeg
   calendario: " 20/07/2021 - 19/07/2022"
   tiempo: '7 semanas'
