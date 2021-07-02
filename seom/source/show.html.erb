@@ -107,6 +107,14 @@
        </ul>
     <% end %>
 
+    <% if data.courses[curso].first[1].autores %>
+      <p><b>Autores</b></p>
+      <ul><%data.courses[curso].first[1].autores.each do |autor|%>
+          <li> <%= autor%></li>
+       <% end %>
+       </ul>
+    <% end %>
+
     </div>
      <div class="logos">
       <% if data.courses[curso].first[1].logos %>

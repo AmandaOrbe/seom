@@ -12,11 +12,11 @@ CÁNCER GENITOURINARIO:
   programa: ["Módulo 1. Cáncer de vejiga",
     "Módulo 2. Cáncer renal",
     "Módulo 3. Tumores germinales"]
-  profesores: ["Dr. Joaquim Bellmunt",
-    "Dr. Francesc Pons"]
-  direccion: ["Dr. Joaquim Bellmunt"]
-  matricula: ["10 horas estimadas",
+  profesores: ["Dra. Rebeca Mondéjar"]
+  direccion: ["Dr. Joaquim Bellmunt", "Dr. Francesc Pons"]
+  autores: ["Dr. Joaquim Bellmunt", "Dr. Francesc Pons"]
+  matricula: ["12 horas estimadas",
     "25 horas (1 créditos)."]
   imagen: tumores-genito-urinarios.jpeg
-  calendario: '16/09/2020 a 15/09/2021'
+  calendario: ' 16/09/2021 a 15/09/2022'
   tiempo: '4 semanas' 

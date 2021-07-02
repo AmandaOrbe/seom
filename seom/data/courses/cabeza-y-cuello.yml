@@ -20,16 +20,19 @@ CÁNCER DE CABEZA Y CUELLO:
     "Módulo 3. Clasificación por estadios",
     "Módulo 4. Factores pronósticos",
     "Módulo 5. Modalidades terapéuticas",
-    "Módulo 6. Tratamiento del CCC localmente avanzado resecable",
-    "Módulo 7. Tratamiento del CCC localmente avanzado irresecable",
-    "Módulo 8. Tratamiento por localizaciones",
-    "Módulo 9. Tratamiento de la enfermedad recurrente o metastásica (R/M CCC)"]
-  profesores: ["Dra. Elvira del Barco"]
-  direccion:  ["Dr. Juan Jesús Cruz"]
+    "Módulo 6. Tratamiento adyuvante de la enfermedad resecada",
+    "Módulo 7.  Preservación de órganos",
+    "Módulo 8. Tratamiento del CCC localmente avanzado",
+    "Módulo 9. Tratamiento por localizaciones",
+    "Módulo 10. Tratamiento de la enfermedad recurrente o metastásica (R/M CCC)",
+    "Módulo 11. Seguimiento"]
+  profesores: ["Dra. Rebeca Mondéjar"]
+  direccion:  ["Dr. Edel del Barco", "Dr. Juan Jesús Cruz"]
+  autores:  ["Dr. Edel del Barco", "Dr. Juan Jesús Cruz"]
   matricula: [ "25 horas estimadas",
     "62,5 horas (2,5 créditos)."]
   imagen: cabeza.jpeg
-  calendario: '16/09/2020 a 15/09/2021'
+  calendario: '16/09/2021 a 15/09/2022'
   tiempo: 8 semanas 
   logo: MERCK.png
 

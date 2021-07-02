@@ -22,8 +22,10 @@ FARMACOLOGÍA CLÍNICA ONCOLÓGICA:
     "Dra. Sara Encinas",
     "Dr. Antonio González",
     "Dr. Raúl Márquez"]
-  direccion: ["Dra. Aitana Calvo"]
+  direccion: ["Dr. Andrés Redondo", "Dra. Belén Ojeda"]
   codireccion: ["Dr. Antonio González"]
+  autores: ["Dr. Alejandro Gallego", "Dra. Cristina Martin Lorente", "Dra. Belén Ojeda", "Dr. Andrés Redondo"]
+  tutoria: ["Dra. Rebeca Mondéjar"]
   matricula: ["15 horas estimadas",
   "37,5 horas  (1,5 créditos"]
   imagen : farmacologia-clinica-oncologica.jpeg

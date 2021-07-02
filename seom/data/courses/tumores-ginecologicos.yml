@@ -16,13 +16,10 @@ CÁNCER GINECOLÓGICO:
   programa: ["Módulo 1. Cáncer de cérvix",
     "Módulo 2. Cáncer de endometrio",
     "Módulo 3. Cáncer de ovario"]
-  profesores: ["Dr. Alejandro Gallego",
-    "Dra. Cristina Martin Lorente",
-    "Dra. Belén Ojeda",
-    "Dr. Andrés Redondo"]
-  direccion: ["Dr. Andrés Redondo"]
-  codireccion: ["Dra. Belén Ojeda"]
+  profesores: ["Dra. Belén Ojeda"]
+  direccion: ["Dr. Andrés Redondo", "Dra. Belén Ojeda"]
+  autores: ["Dr. Alejandro Gallego", "Dra. Cristina Martin Lorente", "Dra. Belén Ojeda", "Dr. Andrés Redondo"]
   matricula: ["30 horas estimadas", "75 horas (3 créditos)."]
   imagen: tumores-ginecologicos.jpeg
-  calendario: '16/09/2020 a 15/09/2021'
-  tiempo: '6 semanas' 
+  calendario: '16/09/2021 a 15/09/2022'
+  tiempo: '10 semanas' 

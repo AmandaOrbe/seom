@@ -15,9 +15,9 @@ CÁNCER DEL SISTEMA NERVIOSO CENTRAL:
     "Módulo 2. Gliomas Anaplásicos ",
     "Módulo 3. Gliobastoma",
     "Módulo 4. Meduloblastoma"]
-  profesores: ["Dr. Ivan Márquez"]
+  profesores: ["Rebeca Mondéjar"]
   direccion: ["Dr. Ivan Márquez", "Dra. Carme Balaña Quintero"]
-  matricula: ["15 horas estimadas", "37,5 horas (1,5 créditos)"]
+  matricula: ["10 horas aproximadas", "37,5 horas (1,5 créditos)"]
   imagen : snc.jpeg
-  calendario: '16/09/2020 a 15/09/2021'
+  calendario: '16/09/2021 a 15/09/2022'
   tiempo: '4 semanas' 
