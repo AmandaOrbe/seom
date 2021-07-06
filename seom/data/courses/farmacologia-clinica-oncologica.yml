@@ -16,16 +16,14 @@ FARMACOLOGÍA CLÍNICA ONCOLÓGICA:
     "Módulo 4. Inmunoterapia y modificaciones de la respuesta biológica.",
     "Módulo 5. Inhibidores de tirosina quinasa.",
     "Módulo 6. Anticuerpos monoclonales."]
-  profesores: ["Dra. Esther Brehcist",
+  profesores: ["Rebeca Mondéjar Solís"]
+  direccion: ["Dra. Aitana Calvo", "Dr. Antonio González"]
+  autores: ["Dra. Esther Brehcist",
     "Dra. Aitana Calvo",
     "Dra. Susana de la Cruz",
     "Dra. Sara Encinas",
     "Dr. Antonio González",
     "Dr. Raúl Márquez"]
-  direccion: ["Dr. Andrés Redondo", "Dra. Belén Ojeda"]
-  codireccion: ["Dr. Antonio González"]
-  autores: ["Dr. Alejandro Gallego", "Dra. Cristina Martin Lorente", "Dra. Belén Ojeda", "Dr. Andrés Redondo"]
-  tutoria: ["Dra. Rebeca Mondéjar"]
   matricula: ["15 horas estimadas",
   "37,5 horas  (1,5 créditos"]
   imagen : farmacologia-clinica-oncologica.jpeg
