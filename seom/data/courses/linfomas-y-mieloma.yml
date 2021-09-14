@@ -16,10 +16,11 @@ LINFOMAS Y MIELOMA:
   programa: ["Módulo 1.Aspectos generales del sistema inmune.",
     "Módulo 2. Tipos de linfomas más frecuentes.",
     "Módulo 3. Mieloma."]
-  profesores: ["Dr. Mariano Provencio"]
+  profesores: ["Dra. Rebeca Mondéjar Solís"]
   direccion: ["Dr. Mariano Provencio"]
+  autores: ["Dr. Mariano Provencio"]
   matricula: ["20 horas estimadas",
     "50 horas (2 créditos)"]
   imagen : mieloma.jpeg
-  calendario: 12/11/2020 a 11/11/2021
+  calendario: " 12/11/2021 a 11/11/2022"
   tiempo: '6 semanas '

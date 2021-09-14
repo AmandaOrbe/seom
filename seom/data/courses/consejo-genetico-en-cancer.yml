@@ -14,17 +14,17 @@ CONSEJO GENÉTICO EN CÁNCER:
     "Módulo 4: Técnicas de diagnóstico molecular",
     "Módulo 5: Implementación de los paneles en la práctica clínica diaria",
     "Módulo 6: Implicaciones terapéuticas del resultado de estudios genéticos en pacientes con cáncer"]
-  profesores: ["Dr. Joan Brunet",
+  profesores: ["Dra. Rebeca Mondéjar Solís"]
+  direccion: ["Dr. Álex Teulé"]
+  autores: ["Dr. Joan Brunet",
     "Dra. Begoña Graña Suárez",
     "Dr. Enrique Lastra",
+    "Dr. Jose Ángel García Sáenz",
     "Dra. Conxi Lázaro",
-     "Dra. Berta Obispo",
-    "Dra. Teresa Ramón y Cajal"
-   ]
-  direccion: ["Dr. Álex Teulé"]
+    "Dra. Teresa Ramón y Cajal"]
   matricula: ["25 horas estimadas",
     "62,5 horas (2,5 créditos)"]
   imagen : consejo-genetico-en-cancer.jpeg
-  calendario: '12/11/2020 a 11/11/2021'
+  calendario: ' 12/11/2021 a 11/11/2022'
   tiempo: '7 semanas' 
 

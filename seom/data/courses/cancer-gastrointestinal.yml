@@ -13,11 +13,17 @@ CÁNCER GASTROINTESTINAL:
     "Módulo 4. Cáncer de esófago",
     "Módulo 5. Cáncer de hígado",
     "Módulo 6. Tumores neuroendocrinos"]
-  profesores: ["Dr. Álex Teulé"]
+  profesores: ["Dra. Rebeca Mondéjar Solís"]
+  autores: ["Dr. Enrique Aranda",
+    "Dra. Mariona Calvo",
+    "Dra. Maria Auxiliadora Gómez",
+    "Dr. Ferrán Losa",
+    "Dra. Gema Pulido",
+    "Dr. Álex Teulé"]
   direccion: ["Dr. Enrique Aranda", "Dr. Ramón Salazar"]
   matricula: ["40 horas estimadas",
     "100 horas (4 créditos)"]
   imagen: cancer-gastrointestinal.jpeg
-  calendario: 12/11/2020 a 11/11/2021
+  calendario:  " 12/11/2021 a 11/11/2022"
   tiempo: '3 meses '
   logo: servier.jpg

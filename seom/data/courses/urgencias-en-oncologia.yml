@@ -15,10 +15,12 @@ URGENCIAS EN ONCOLOGÍA:
     "Módulo 5. Urgencias digestivas",
     "Módulo 6. Tratamiento práctico del paciente con neutropenia febril",
     "Módulo 7. Otras complicaciones del tratamiento antineoplásico"]
-  profesores: ["Dr. César Rodríguez Sánchez", "Dra. Núria Romero Laorden"]
+  profesores: ["Dra. Rebeca Mondéjar Solís"]
   direccion: ["Dr. César Rodríguez Sánchez"]
+  autores: ["Dra. Nuria Romero-Laorden",
+    "Dr. César Rodríguez Sánchez"]
   matricula: ["12 horas estimadas",
   "37,5 horas (1,5 créditos)"]
   imagen : urgencias-en-oncologia.jpeg
-  calendario: '12/11/2020 a 11/11/2021'
+  calendario: ' 12/11/2021 a 11/11/2022'
   tiempo: '4 semanas' 
