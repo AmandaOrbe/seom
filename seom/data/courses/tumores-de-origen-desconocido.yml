@@ -11,11 +11,12 @@ TUMORES DE ORIGEN DESCONOCIDO:
     "Módulo 3. Características histológicas y moleculares.",
     "Módulo 4. Presentación clínica y abordaje diagnóstico.",
     "Módulo 5. Tratamiento del cáncer de origen desconocido según pronóstico y localización."]
-  profesores: ["Dr. Ramón Colomer",
-    "Dra. Berta Obispo Portero"]
+  profesores: ["Dra. Rebeca Mondéjar Solís"]
   direccion: ["Dr. Ramón Colomer"]
+  autores: ["Dr. Ramón Colomer",
+    "Dra. Berta Obispo Portero"]
   matricula: ["10 horas estimadas",
     "37,5 horas (1,5 créditos)"]
   imagen : tumores-de-origen-desconocido.jpeg
-  calendario: 12/11/2020 a 11/11/2021
+  calendario: " 12/11/2021 a 11/11/2022"
   tiempo: '4 semanas '
